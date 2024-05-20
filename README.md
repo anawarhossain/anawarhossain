@@ -3,7 +3,7 @@
 ### Hi there 👋, My name is MD. ANAWAR HOSSAIN
 #### Expert in JS, JAVA, Dart, Flutter, PHP, LARAVEL || Android, iOS, Web Application Developer and Web Developer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I like to call myself Android App Developer, and I’m very passionate and dedicated to my work. I made lot of Android Application. I have been working on web applications and android application from 2019 to present. I create apps for websites, companies, schools, shop management, Education Management, Hospital Management, Pharmacy Management, Restaurant Management and other. I have acquired the skills and knowledge necessary to make your project a success. I don’t stop working until you are 100% satisfied. I enjoy every step of the design process, from discussion and collaboration.
 
 Skills:  REACT / JS / PHP / Python / HTML / CSS/ Bootstrap
 
