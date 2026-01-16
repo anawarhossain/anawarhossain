@@ -64,7 +64,7 @@ jobs:
                   const language = repo.language || 'Code';
                   
                   projectsHtml += `<td width="33%" align="center">
-                  <a href="${repo.html_url}" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight&hide_border=true"</a><br/>
+                  <a href="${repo.html_url}" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight&hide_border=true" /></a><br/>
                   <strong>${repo.name}</strong><br/><sub>${description.substring(0, 60)}${description.length > 60 ? '...' : ''}</sub><br/><img src="https://img.shields.io/github/stars/${username}/${repo.name}?style=social" alt="stars"/>
                   <img src="https://img.shields.io/github/forks/${username}/${repo.name}?style=social" alt="forks"/></td>\n`;
                 } else {
