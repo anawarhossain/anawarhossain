@@ -4,7 +4,7 @@ name: Update README with Repositories
 on:
   schedule:
     # প্রতিদিন UTC সময় 00:00 এ চলবে (আপনার সময় অনুযায়ী পরিবর্তন করুন)
-    - cron: '0 0 * * *'
+    - cron: '0 18 * * *'
   workflow_dispatch: # ম্যানুয়ালি চালানোর অপশন
   push:
     branches:
