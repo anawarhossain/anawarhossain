@@ -33,7 +33,7 @@ jobs:
             const fs = require('fs');
             
             // আপনার GitHub username - পরিবর্তন করুন
-            const username = context.repo.owner;
+            const username = github.repository_owner;
             
             // সব public repositories fetch করুন
             const { data: repos } = await github.rest.repos.listForUser({
