@@ -1,3 +1,46 @@
+
+<div align="center">
+
+<h2>🗂️ My Open Source Projects</h2>
+
+<table>
+<tr>
+<td width="50%" align="center">
+      <a href="https://github.com/anawarhossain/projects-g3-architect-website" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=projects-g3-architect-website&theme=tokyonight&border_radius=10" alt="projects-g3-architect-website" style="max-width:100%; border-radius:10px;" />
+      </a>
+      <br/>
+      <strong>projects-g3-architect-website</strong><br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/projects-g3-architect-website?style=flat-square&label=Stars&color=yellow" />
+      <img src="https://img.shields.io/github/languages/top/anawarhossain/projects-g3-architect-website?style=flat-square&color=blue" />
+      </td>
+<td width="50%" align="center">
+      <a href="https://github.com/anawarhossain/Knowledge-Vault" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Knowledge-Vault&theme=tokyonight&border_radius=10" alt="Knowledge-Vault" style="max-width:100%; border-radius:10px;" />
+      </a>
+      <br/>
+      <strong>Knowledge-Vault</strong><br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=flat-square&label=Stars&color=yellow" />
+      <img src="https://img.shields.io/github/languages/top/anawarhossain/Knowledge-Vault?style=flat-square&color=blue" />
+      </td>
+</tr>
+<tr>
+<td width="50%" align="center">
+      <a href="https://github.com/anawarhossain/Corporate" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight&border_radius=10" alt="Corporate" style="max-width:100%; border-radius:10px;" />
+      </a>
+      <br/>
+      <strong>Corporate</strong><br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/Corporate?style=flat-square&label=Stars&color=yellow" />
+      <img src="https://img.shields.io/github/languages/top/anawarhossain/Corporate?style=flat-square&color=blue" />
+      </td>
+<td width="50%"></td>
+</tr>
+</table>
+
+<sub>✨ Last Synchronized: 17 Jan 2026, 02:31 (BST)</sub>
+
+</div>
 <div align="center">
   
   <!-- BANNER IMAGE - পরিবর্তন করুন: আপনার কাস্টম ব্যানার ইমেজ URL দিন -->
