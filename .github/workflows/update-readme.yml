@@ -51,21 +51,18 @@ jobs:
               for (let j = 0; j < 2; j++) {
                 const repo = filteredRepos[i + j];
                 if (repo) {
-                  const description = repo.description || 'No description available for this project.';
-                  // পিন এপিআই এর বদলে রিপোজিটরি কার্ড এপিআই ব্যবহার
-                  const cardUrl = `https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight&border_radius=10`;
+                  const description = repo.description || 'No description available';
                   
-                  projectsHtml += `<td width="50%" align="center">
+                  // 'pin' এর বদলে 'repo' কার্ড ব্যবহার করা হয়েছে যা সবার জন্য কাজ করবে
+                  const cardUrl = `https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight&show_owner=false`;
+                  
+                  projectsHtml += `<td width="50%" align="center" style="border: none;">
                   <a href="${repo.html_url}" target="_blank">
-                    <img src="${cardUrl}" alt="${repo.name}" style="max-width:100%; border-radius:10px;" />
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight" alt="${repo.name}" />
                   </a>
-                  <br/>
-                  <strong>${repo.name}</strong><br/>
-                  <img src="https://img.shields.io/github/stars/${username}/${repo.name}?style=flat-square&label=Stars&color=yellow" />
-                  <img src="https://img.shields.io/github/languages/top/${username}/${repo.name}?style=flat-square&color=blue" />
                   </td>\n`;
                 } else {
-                  projectsHtml += '<td width="50%"></td>\n';
+                  projectsHtml += '<td width="50%" style="border: none;"></td>\n';
                 }
               }
               projectsHtml += '</tr>\n';
