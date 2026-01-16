@@ -2,7 +2,7 @@ name: Update README with Repositories
 
 on:
   schedule:
-    # প্রতিদিন UTC সময় 00:00 এ চলবে (বাংলাদেশ সময় সকাল ৬টা)
+    # প্রতিদিন UTC সময় 00:00 এ চলবে (আপনার সময় অনুযায়ী পরিবর্তন করুন)
     - cron: '0 0 * * *'
   workflow_dispatch: # ম্যানুয়ালি চালানোর অপশন
   push:
@@ -31,7 +31,7 @@ jobs:
           script: |
             const fs = require('fs');
             
-            // আপনার GitHub username স্বয়ংক্রিয়ভাবে নিয়ে নেবে
+            // আপনার GitHub username - পরিবর্তন করুন
             const username = context.repo.owner;
             
             // সব public repositories fetch করুন
@@ -46,8 +46,8 @@ jobs:
             const filteredRepos = repos.filter(repo => repo.name !== username);
             
             // Repository কার্ড HTML তৈরি করুন
-            let projectsHtml = '\n<div align="center">\n\n';
-            projectsHtml += '## 🗂️ All My Projects\n\n';
+            let projectsHtml = '<div align="center">\n\n';
+            projectsHtml += '<h2>🗂️ All My Projects</h2>\n\n';
             projectsHtml += '<table>\n';
             
             // 3 কলামে সাজানো
@@ -63,20 +63,20 @@ jobs:
                   const forks = repo.forks_count;
                   const language = repo.language || 'Code';
                   
-                  projectsHtml += `  <td width="33%" align="center">
-                  <a href="${repo.html_url}" target="_blank">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight&hide_border=true" alt="${repo.name}"/>
-                  </a>
-                  <br/>
-                  <strong><a href="${repo.html_url}" target="_blank">${repo.name}</a></strong>
-                  <br/>
-                  <sub>${description.substring(0, 60)}${description.length > 60 ? '...' : ''}</sub>
-                  <br/>
-                  <img src="https://img.shields.io/github/stars/${username}/${repo.name}?style=social" alt="stars"/>
-                  <img src="https://img.shields.io/github/forks/${username}/${repo.name}?style=social" alt="forks"/>
-                </td>\n`;
+                  projectsHtml += `<td width="33%" align="center">
+  <a href="${repo.html_url}" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight&hide_border=true" alt="${repo.name}"/>
+  </a>
+  <br/>
+  <strong>${repo.name}</strong>
+  <br/>
+  <sub>${description.substring(0, 60)}${description.length > 60 ? '...' : ''}</sub>
+  <br/>
+  <img src="https://img.shields.io/github/stars/${username}/${repo.name}?style=social" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/${username}/${repo.name}?style=social" alt="forks"/>
+</td>\n`;
                 } else {
-                  projectsHtml += '  <td width="33%"></td>\n';
+                  projectsHtml += '<td width="33%"></td>\n';
                 }
               }
               
@@ -84,7 +84,7 @@ jobs:
             }
             
             projectsHtml += '</table>\n\n';
-            projectsHtml += `<sub>📅 Last Updated: ${new Date().toLocaleString('en-US', { timeZone: 'Asia/Dhaka', dateStyle: 'full', timeStyle: 'short' })}</sub>\n\n`;
+            projectsHtml += `<sub>Last Updated: ${new Date().toLocaleString('en-US', { timeZone: 'Asia/Dhaka', dateStyle: 'full', timeStyle: 'short' })}</sub>\n\n`;
             projectsHtml += '</div>\n';
             
             // README.md ফাইল পড়ুন
@@ -100,9 +100,7 @@ jobs:
             if (startIndex !== -1 && endIndex !== -1) {
               const before = readme.substring(0, startIndex + startMarker.length);
               const after = readme.substring(endIndex);
-              readme = before + projectsHtml + after;
-            } else {
-              console.log('⚠️ Warning: PROJECTS_START or PROJECTS_END marker not found in README.md');
+              readme = before + '\n' + projectsHtml + after;
             }
             
             // আপডেট করা README.md সংরক্ষণ করুন
@@ -115,4 +113,4 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update: Repository cards updated [$(date +'%Y-%m-%d %H:%M:%S')]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update: Repository cards updated" && git push)
