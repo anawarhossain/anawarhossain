@@ -125,30 +125,8 @@ const arif = {
 <!-- এই সেকশন অটোমেটিক আপডেট হবে - নিচে দেখুন -->
 
 <!-- PROJECTS_START -->
-<div align="center">
-
-<h2>🗂️ All My Projects</h2>
-
-<table>
-<tr>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/projects-g3-architect-website" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=projects-g3-architect-website&theme=tokyonight&hide_border=true" /></a><br/>
-      <strong>projects-g3-architect-website</strong><br/><sub>No description available</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/projects-g3-architect-website?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/projects-g3-architect-website?style=social" alt="forks"/></td>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/Knowledge-Vault" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Knowledge-Vault&theme=tokyonight&hide_border=true" /></a><br/>
-      <strong>Knowledge-Vault</strong><br/><sub>Assignment 01</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/Knowledge-Vault?style=social" alt="forks"/></td>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/Corporate" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight&hide_border=true" /></a><br/>
-      <strong>Corporate</strong><br/><sub>No description available</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/Corporate?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/Corporate?style=social" alt="forks"/></td>
-</tr>
-</table>
-
-<sub>Last Updated: Saturday, January 17, 2026 at 2:50 AM</sub>
-
-</div>
+<!-- এখানে স্বয়ংক্রিয়ভাবে আপনার সব repository এর কার্ড যুক্ত হবে -->
+<!-- GitHub Actions এটি আপডেট করবে -->
 <!-- PROJECTS_END -->
 
 ---
@@ -183,13 +161,13 @@ const arif = {
   <a href="https://x.com/MDANAWAR22" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:anwarhossainhossain@gmail.com">
+  <a href="mailto:anwarhossainhossain01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://anawarhossain.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://facebook.com/AnawarHossain55" target="_blank">
+  <a href="https://www.facebook.com/AnawarHossain55" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
