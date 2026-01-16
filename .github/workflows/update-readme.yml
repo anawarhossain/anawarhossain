@@ -2,8 +2,9 @@ name: Update README with Repositories
 
 on:
   schedule:
+    # প্রতিদিন UTC সময় 00:00 এ চলবে (আপনার সময় অনুযায়ী পরিবর্তন করুন)
     - cron: '0 18 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # ম্যানুয়ালি চালানোর অপশন
   push:
     branches:
       - main
@@ -29,52 +30,62 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const fs = require('fs');
+            
+            // আপনার GitHub username - পরিবর্তন করুন
             const username = context.repo.owner;
             
+            // সব public repositories fetch করুন
             const { data: repos } = await github.rest.repos.listForUser({
               username: username,
               sort: 'updated',
-              per_page: 50, // প্রফেশনাল প্রোফাইলের জন্য সেরা ৫০টি যথেষ্ট
+              per_page: 100,
               type: 'public'
             });
             
-            // ফিল্টারিং: নিজের রিপোজিটরি এবং ফর্ক করা প্রজেক্ট বাদ দেওয়া
-            const filteredRepos = repos.filter(repo => repo.name !== username && !repo.fork);
+            // Profile repository বাদ দিন
+            const filteredRepos = repos.filter(repo => repo.name !== username);
             
+            // Repository কার্ড HTML তৈরি করুন
             let projectsHtml = '<div align="center">\n\n';
-            projectsHtml += '<h2>🗂️ My Open Source Projects</h2>\n\n';
+            projectsHtml += '<h2>🗂️ All My Projects</h2>\n\n';
             projectsHtml += '<table>\n';
             
-            // ২ কলামে সাজানো (Responsive Look)
-            for (let i = 0; i < filteredRepos.length; i += 2) {
+            // 3 কলামে সাজানো
+            for (let i = 0; i < filteredRepos.length; i += 3) {
               projectsHtml += '<tr>\n';
-              for (let j = 0; j < 2; j++) {
+              
+              for (let j = 0; j < 3; j++) {
                 const repo = filteredRepos[i + j];
+                
                 if (repo) {
                   const description = repo.description || 'No description available';
+                  const stars = repo.stargazers_count;
+                  const forks = repo.forks_count;
+                  const language = repo.language || 'Code';
                   
-                  // 'pin' এর বদলে 'repo' কার্ড ব্যবহার করা হয়েছে যা সবার জন্য কাজ করবে
-                  const cardUrl = `https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight&show_owner=false`;
-                  
-                  projectsHtml += `<td width="50%" align="center" style="border: none;">
-                  <a href="${repo.html_url}" target="_blank">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight" alt="${repo.name}" />
-                  </a>
-                  </td>\n`;
+                  projectsHtml += `<td width="33%" align="center">
+                  <a href="${repo.html_url}" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight&hide_border=true" /></a><br/>
+                  <strong>${repo.name}</strong><br/><sub>${description.substring(0, 60)}${description.length > 60 ? '...' : ''}</sub><br/><img src="https://img.shields.io/github/stars/${username}/${repo.name}?style=social" alt="stars"/>
+                  <img src="https://img.shields.io/github/forks/${username}/${repo.name}?style=social" alt="forks"/></td>\n`;
                 } else {
-                  projectsHtml += '<td width="50%" style="border: none;"></td>\n';
+                  projectsHtml += '<td width="33%"></td>\n';
                 }
               }
+              
               projectsHtml += '</tr>\n';
             }
             
             projectsHtml += '</table>\n\n';
-            projectsHtml += `<sub>✨ Last Synchronized: ${new Date().toLocaleString('en-GB', { timeZone: 'Asia/Dhaka', dateStyle: 'medium', timeStyle: 'short' })} (BST)</sub>\n\n`;
+            projectsHtml += `<sub>Last Updated: ${new Date().toLocaleString('en-US', { timeZone: 'Asia/Dhaka', dateStyle: 'full', timeStyle: 'short' })}</sub>\n\n`;
             projectsHtml += '</div>\n';
             
+            // README.md ফাইল পড়ুন
             let readme = fs.readFileSync('README.md', 'utf8');
-            const startMarker = '';
-            const endMarker = '';
+            
+            // PROJECTS_START এবং PROJECTS_END এর মধ্যে কন্টেন্ট replace করুন
+            const startMarker = '<!-- PROJECTS_START -->';
+            const endMarker = '<!-- PROJECTS_END -->';
+            
             const startIndex = readme.indexOf(startMarker);
             const endIndex = readme.indexOf(endMarker);
             
@@ -82,15 +93,16 @@ jobs:
               const before = readme.substring(0, startIndex + startMarker.length);
               const after = readme.substring(endIndex);
               readme = before + '\n' + projectsHtml + after;
-              fs.writeFileSync('README.md', readme);
-              console.log('✅ Success: README updated!');
-            } else {
-              console.log('⚠️ Error: HTML Markers not found in README.md');
             }
+            
+            // আপডেট করা README.md সংরক্ষণ করুন
+            fs.writeFileSync('README.md', readme);
+            
+            console.log(`✅ README updated with ${filteredRepos.length} repositories!`);
       
       - name: Commit and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update: Refreshed project gallery" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update: Repository cards updated" && git push)
