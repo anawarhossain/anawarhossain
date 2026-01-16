@@ -146,29 +146,6 @@ const arif = {
       <img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Knowledge-Vault?style=social" alt="forks"/></td>
 <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/MdAnawarHossain" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=MdAnawarHossain&theme=tokyonight&hide_border=true"</a><br/>
-      <strong>MdAnawarHossain</strong>
-      <br/>
-      <sub>No description available</sub><br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/MdAnawarHossain?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/MdAnawarHossain?style=social" alt="forks"/></td>
-</tr>
-<tr>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/kotlin-week1" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=kotlin-week1&theme=tokyonight&hide_border=true"</a><br/>
-      <strong>kotlin-week1</strong>
-      <br/>
-      <sub>No description available</sub><br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/kotlin-week1?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/kotlin-week1?style=social" alt="forks"/></td>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/Anawarhossain.profile" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Anawarhossain.profile&theme=tokyonight&hide_border=true"</a><br/>
-      <strong>Anawarhossain.profile</strong>
-      <br/>
-      <sub>I am Md. Anawar Hossain From Dhaka Bangladesh, and I have be...</sub><br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/Anawarhossain.profile?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/Anawarhossain.profile?style=social" alt="forks"/></td>
-<td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Corporate" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight&hide_border=true"</a><br/>
       <strong>Corporate</strong>
       <br/>
@@ -176,32 +153,9 @@ const arif = {
       <img src="https://img.shields.io/github/stars/anawarhossain/Corporate?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Corporate?style=social" alt="forks"/></td>
 </tr>
-<tr>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/Google-search-page" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Google-search-page&theme=tokyonight&hide_border=true"</a><br/>
-      <strong>Google-search-page</strong>
-      <br/>
-      <sub>No description available</sub><br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/Google-search-page?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/Google-search-page?style=social" alt="forks"/></td>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/Second-Project" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Second-Project&theme=tokyonight&hide_border=true"</a><br/>
-      <strong>Second-Project</strong>
-      <br/>
-      <sub>No description available</sub><br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/Second-Project?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/Second-Project?style=social" alt="forks"/></td>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/home-tutor" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=home-tutor&theme=tokyonight&hide_border=true"</a><br/>
-      <strong>home-tutor</strong>
-      <br/>
-      <sub>No description available</sub><br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/home-tutor?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/home-tutor?style=social" alt="forks"/></td>
-</tr>
 </table>
 
-<sub>Last Updated: Saturday, January 17, 2026 at 1:38 AM</sub>
+<sub>Last Updated: Saturday, January 17, 2026 at 2:07 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
