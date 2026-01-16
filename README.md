@@ -5,6 +5,37 @@
 
 <table>
 <tr>
+<td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/anawarhossain/projects-g3-architect-website" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=projects-g3-architect-website&theme=tokyonight" alt="projects-g3-architect-website" />
+      </a>
+      </td>
+<td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/anawarhossain/Knowledge-Vault" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Knowledge-Vault&theme=tokyonight" alt="Knowledge-Vault" />
+      </a>
+      </td>
+</tr>
+<tr>
+<td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/anawarhossain/Corporate" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight" alt="Corporate" />
+      </a>
+      </td>
+<td width="50%" style="border: none;"></td>
+</tr>
+</table>
+
+<sub>✨ Last Synchronized: 17 Jan 2026, 02:39 (BST)</sub>
+
+</div>
+
+<div align="center">
+
+<h2>🗂️ My Open Source Projects</h2>
+
+<table>
+<tr>
 <td width="50%" align="center">
       <a href="https://github.com/anawarhossain/projects-g3-architect-website" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=projects-g3-architect-website&theme=tokyonight&border_radius=10" alt="projects-g3-architect-website" style="max-width:100%; border-radius:10px;" />
