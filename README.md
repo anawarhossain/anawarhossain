@@ -133,29 +133,20 @@ const arif = {
 <tr>
 <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/projects-g3-architect-website" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=projects-g3-architect-website&theme=tokyonight&hide_border=true"</a><br/>
-      <strong>projects-g3-architect-website</strong>
-      <br/>
-      <sub>No description available</sub><br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/projects-g3-architect-website?style=social" alt="stars"/>
+      <strong>projects-g3-architect-website</strong><br/><sub>No description available</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/projects-g3-architect-website?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/projects-g3-architect-website?style=social" alt="forks"/></td>
 <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Knowledge-Vault" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Knowledge-Vault&theme=tokyonight&hide_border=true"</a><br/>
-      <strong>Knowledge-Vault</strong>
-      <br/>
-      <sub>Assignment 01</sub><br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=social" alt="stars"/>
+      <strong>Knowledge-Vault</strong><br/><sub>Assignment 01</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Knowledge-Vault?style=social" alt="forks"/></td>
 <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Corporate" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight&hide_border=true"</a><br/>
-      <strong>Corporate</strong>
-      <br/>
-      <sub>No description available</sub><br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/Corporate?style=social" alt="stars"/>
+      <strong>Corporate</strong><br/><sub>No description available</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/Corporate?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Corporate?style=social" alt="forks"/></td>
 </tr>
 </table>
 
-<sub>Last Updated: Saturday, January 17, 2026 at 2:07 AM</sub>
+<sub>Last Updated: Saturday, January 17, 2026 at 2:09 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
