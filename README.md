@@ -192,27 +192,16 @@ const arif = {
       <img src="https://img.shields.io/github/stars/anawarhossain/Second-Project?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Second-Project?style=social" alt="forks"/></td>
 <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/Project01" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Project01&theme=tokyonight&hide_border=true"</a><br/>
-      <strong>Project01</strong>
-      <br/>
-      <sub>No description available</sub><br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/Project01?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/Project01?style=social" alt="forks"/></td>
-</tr>
-<tr>
-<td width="33%" align="center">
       <a href="https://github.com/anawarhossain/home-tutor" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=home-tutor&theme=tokyonight&hide_border=true"</a><br/>
       <strong>home-tutor</strong>
       <br/>
       <sub>No description available</sub><br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/home-tutor?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/home-tutor?style=social" alt="forks"/></td>
-<td width="33%"></td>
-<td width="33%"></td>
 </tr>
 </table>
 
-<sub>Last Updated: Saturday, January 17, 2026 at 1:27 AM</sub>
+<sub>Last Updated: Saturday, January 17, 2026 at 1:36 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
