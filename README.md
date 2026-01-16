@@ -1,32 +1,219 @@
-![Expert in JS, JAVA, Dart, Flutter, PHP, LARAVEL || Android, iOS, Web Application Developer and Web Developer](https://pbs.twimg.com/profile_banners/887227869780254720/1658946735/600x200)
+<div align="center">
+  
+  <!-- BANNER IMAGE - পরিবর্তন করুন: আপনার কাস্টম ব্যানার ইমেজ URL দিন -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anawar%20Hossain&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header"/>
 
-### Hi there 👋, My name is MD. ANAWAR HOSSAIN
-#### Expert in JS, JAVA, Dart, Flutter, PHP, LARAVEL || Android, iOS, Web Application Developer and Web Developer
+  <!-- TYPING ANIMATION - পরিবর্তন করুন: নাম ও টাইটেল -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
 
-I like to call myself Android App Developer, and I’m very passionate and dedicated to my work. I made lot of Android Application. I have been working on web applications and android application from 2019 to present. I create apps for websites, companies, schools, shop management, Education Management, Hospital Management, Pharmacy Management, Restaurant Management and other. I have acquired the skills and knowledge necessary to make your project a success. I don’t stop working until you are 100% satisfied. I enjoy every step of the design process, from discussion and collaboration.
+  <!-- VISITOR COUNTER -->
+  <img src="https://komarev.com/ghpvc/?username=anawarhossain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+</div>
 
-Skills:  REACT / JS / PHP / Python / HTML / CSS/ Bootstrap
+---
 
-- 🔭 I’m currently working on YouTube, Console, LinkedIn 
-- 🌱 I’m currently learning PHP 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web and Android application 
-- 📫 How to reach me: Social Media 
+## 👨‍💻 About Me
 
+<!-- পরিবর্তন করুন: নিজের সম্পর্কে তথ্য -->
+> 🚀 Passionate Full Stack Web Developer from Bangladesh
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anawarhossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/AnawarHossain55/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://anawarhossain.com/)  
+- 🎯 Building scalable and user-friendly web applications
+- 💡 Love to explore new technologies and frameworks
+- 🌱 Currently diving deep into **Cloud Computing** and **DevOps**
+- 🤝 Open to collaborate on **Open Source Projects**
+- ⚡ Fun fact: **I debug code faster with coffee ☕**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anawarhossain)](https://github.com/ryo-ma/github-profile-trophy)
+## 🛠️ Tech Stack & Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anawarhossain)](https://github.com/anuraghazra/github-readme-stats)
+<!-- পরিবর্তন করুন: আপনার স্কিল অনুযায়ী আইকন যোগ/বাদ দিন -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anawarhossain&show_icons=true&count_private=true)  
+### 💻 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/anawarhossain/contributions?format=svg&private=true)  
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/anawarhossain)  
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=anawarhossain)  
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
+---
+
+## 📊 GitHub Statistics
+
+<!-- এখানে কিছু পরিবর্তন করতে হবে না, শুধু username পরিবর্তন করুন -->
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anawarhossain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anawarhossain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anawarhossain&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+  
+  <!-- Trophy Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=anawarhossain&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anawarhossain&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<!-- পরিবর্তন করুন: বর্তমান কার্যক্রম -->
+```javascript
+const arif = {
+    currentlyWorking: "Building a Full Stack E-commerce Platform",
+    currentlyLearning: ["AWS", "Kubernetes", "Microservices"],
+    lookingToCollaborate: "Open Source Projects & Innovative Web Apps",
+    goals2026: "Master Cloud Architecture & Contribute to 100+ Open Source PRs",
+    funFact: "I can code for 12 hours straight with just music and coffee!"
+};
+```
+
+---
+
+## 🚀 Featured Projects
+
+<!-- এই সেকশন অটোমেটিক আপডেট হবে - নিচে দেখুন -->
+
+<!-- PROJECTS_START -->
+<!-- এখানে স্বয়ংক্রিয়ভাবে আপনার সব repository এর কার্ড যুক্ত হবে -->
+<!-- GitHub Actions এটি আপডেট করবে -->
+<!-- PROJECTS_END -->
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- পরিবর্তন করুন: আপনার ব্লগ পোস্ট লিংক যোগ করুন অথবা এই সেকশন মুছে দিন -->
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a REST API with Node.js and Express](https://yourblog.com/post1)
+- [Understanding React Hooks: A Complete Guide](https://yourblog.com/post2)
+- [10 JavaScript Tips Every Developer Should Know](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💬 Random Dev Quote
+
+<!-- এটি স্বয়ংক্রিয়ভাবে পরিবর্তন হবে -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<!-- পরিবর্তন করুন: আপনার সোশ্যাল মিডিয়া লিংক -->
+<p align="center">
+  <a href="https://linkedin.com/in/anawarhossain" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/MDANAWAR22" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:anwarhossainhossain@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://anawarhossain.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://facebook.com/AnawarHossain55" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+---
+
+## ☕ Support My Work
+
+<!-- পরিবর্তন করুন: আপনার donation লিংক বা এই সেকশন মুছে দিন -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourname">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourname&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+  ### 💭 Quote of the Day
+  
+  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  
+  ---
+  
+  ### 🎵 Now Playing on Spotify
+  
+  <!-- পরিবর্তন করুন: আপনার Spotify username -->
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+
+  ---
+  
+  ### 📈 Contribution Snake
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anawarhossain/anawarhossain/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anawarhossain/anawarhossain/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anawarhossain/anawarhossain/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  ---
+  
+  **Thanks for visiting! 😊**
+  
+  *Don't forget to ⭐ my repositories if you find them useful!*
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+</div>
