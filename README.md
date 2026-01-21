@@ -132,29 +132,29 @@ const arif = {
 <table>
 <tr>
 <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/TechWave" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=TechWave&theme=tokyonight&hide_border=true" /></a><br/>
-      <strong>TechWave</strong><br/><sub>TechWave - Podcast Website</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/TechWave?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/TechWave?style=social" alt="forks"/></td>
+      <a href="https://github.com/anawarhossain/Corporate" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight&hide_border=true" /></a><br/>
+      <strong>Corporate</strong><br/><sub>Corporate Website </sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/Corporate?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/Corporate?style=social" alt="forks"/></td>
 <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/projects-g3-architect-website" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=projects-g3-architect-website&theme=tokyonight&hide_border=true" /></a><br/>
-      <strong>projects-g3-architect-website</strong><br/><sub>No description available</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/projects-g3-architect-website?style=social" alt="stars"/>
+      <strong>projects-g3-architect-website</strong><br/><sub>G3 Architect Website </sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/projects-g3-architect-website?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/projects-g3-architect-website?style=social" alt="forks"/></td>
 <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Knowledge-Vault" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Knowledge-Vault&theme=tokyonight&hide_border=true" /></a><br/>
-      <strong>Knowledge-Vault</strong><br/><sub>Assignment 01</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=social" alt="stars"/>
+      <strong>Knowledge-Vault</strong><br/><sub>Knowledge -vault Website </sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Knowledge-Vault?style=social" alt="forks"/></td>
 </tr>
 <tr>
 <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/Corporate" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight&hide_border=true" /></a><br/>
-      <strong>Corporate</strong><br/><sub>No description available</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/Corporate?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/Corporate?style=social" alt="forks"/></td>
+      <a href="https://github.com/anawarhossain/TechWave" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=TechWave&theme=tokyonight&hide_border=true" /></a><br/>
+      <strong>TechWave</strong><br/><sub>TechWave - Podcast Website</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/TechWave?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/TechWave?style=social" alt="forks"/></td>
 <td width="33%"></td>
 <td width="33%"></td>
 </tr>
 </table>
 
-<sub>Last Updated: Wednesday, January 21, 2026 at 12:24 AM</sub>
+<sub>Last Updated: Thursday, January 22, 2026 at 12:32 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
