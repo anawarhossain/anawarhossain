@@ -1,10 +1,9 @@
-name: Update README with Repositories
+name: Update README with Pinned Repositories
 
 on:
   schedule:
-    # প্রতিদিন UTC সময় 00:00 এ চলবে (আপনার সময় অনুযায়ী পরিবর্তন করুন)
-    - cron: '0 18 * * *'
-  workflow_dispatch: # ম্যানুয়ালি চালানোর অপশন
+    - cron: '0 18 * * *' # প্রতিদিন বাংলাদেশ সময় রাত ১২টায় (UTC 18:00)
+  workflow_dispatch: 
   push:
     branches:
       - main
@@ -13,96 +12,95 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-    
+      contents: write # ফাইলে লেখার অনুমতি
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-      
-      - name: Fetch Repositories and Update README
+
+      - name: Fetch Pinned Repositories and Update README
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const fs = require('fs');
-            
-            // আপনার GitHub username - পরিবর্তন করুন
+
+            // GraphQL Query: পিন করা প্রোজেক্টগুলো আনার জন্য
+            const query = `
+              query($username: String!) {
+                user(login: $username) {
+                  pinnedItems(first: 6, types: REPOSITORY) {
+                    nodes {
+                      ... on Repository {
+                        name
+                        description
+                        html_url
+                        stargazerCount
+                        forkCount
+                      }
+                    }
+                  }
+                }
+              }
+            `;
+
             const username = context.repo.owner;
-            
-            // সব public repositories fetch করুন
-            const { data: repos } = await github.rest.repos.listForUser({
-              username: username,
-              sort: 'updated',
-              per_page: 100,
-              type: 'public'
-            });
-            
-            // Profile repository বাদ দিন
-            const filteredRepos = repos.filter(repo => repo.name !== username);
-            
-            // Repository কার্ড HTML তৈরি করুন
+            const result = await github.graphql(query, { username: username });
+            const pinnedRepos = result.user.pinnedItems.nodes;
+
+            // HTML কার্ড জেনারেট করা
             let projectsHtml = '<div align="center">\n\n';
-            projectsHtml += '<h2>🗂️ All My Projects</h2>\n\n';
+            projectsHtml += '<h2>📌 Featured Projects</h2>\n\n';
             projectsHtml += '<table>\n';
-            
-            // 3 কলামে সাজানো
-            for (let i = 0; i < filteredRepos.length; i += 3) {
+
+            for (let i = 0; i < pinnedRepos.length; i += 3) {
               projectsHtml += '<tr>\n';
-              
               for (let j = 0; j < 3; j++) {
-                const repo = filteredRepos[i + j];
-                
+                const repo = pinnedRepos[i + j];
                 if (repo) {
-                  const description = repo.description || 'No description available';
-                  const stars = repo.stargazers_count;
-                  const forks = repo.forks_count;
-                  const language = repo.language || 'Code';
-                  
+                  const desc = repo.description || 'No description available';
                   projectsHtml += `<td width="33%" align="center">
-                  <a href="${repo.html_url}" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight&hide_border=true" /></a><br/>
-                  <strong>${repo.name}</strong><br/><sub>${description.substring(0, 60)}${description.length > 60 ? '...' : ''}</sub><br/><img src="https://img.shields.io/github/stars/${username}/${repo.name}?style=social" alt="stars"/>
-                  <img src="https://img.shields.io/github/forks/${username}/${repo.name}?style=social" alt="forks"/></td>\n`;
+                  <a href="${repo.html_url}" target="_blank">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight&show_owner=false" />
+                  </a><br/>
+                  <sub>${desc.substring(0, 50)}${desc.length > 50 ? '...' : ''}</sub><br/>
+                  <img src="https://img.shields.io/github/stars/${username}/${repo.name}?style=social" />
+                  <img src="https://img.shields.io/github/forks/${username}/${repo.name}?style=social" />
+                  </td>\n`;
                 } else {
                   projectsHtml += '<td width="33%"></td>\n';
                 }
               }
-              
               projectsHtml += '</tr>\n';
             }
-            
+
             projectsHtml += '</table>\n\n';
-            projectsHtml += `<sub>Last Updated: ${new Date().toLocaleString('en-US', { timeZone: 'Asia/Dhaka', dateStyle: 'full', timeStyle: 'short' })}</sub>\n\n`;
+            projectsHtml += `<sub>সর্বশেষ আপডেট: ${new Date().toLocaleString('en-US', { timeZone: 'Asia/Dhaka', dateStyle: 'full', timeStyle: 'short' })}</sub>\n\n`;
             projectsHtml += '</div>\n';
-            
-            // README.md ফাইল পড়ুন
-            let readme = fs.readFileSync('README.md', 'utf8');
-            
-            // PROJECTS_START এবং PROJECTS_END এর মধ্যে কন্টেন্ট replace করুন
-            const startMarker = '<!-- PROJECTS_START -->';
-            const endMarker = '<!-- PROJECTS_END -->';
-            
-            const startIndex = readme.indexOf(startMarker);
-            const endIndex = readme.indexOf(endMarker);
-            
-            if (startIndex !== -1 && endIndex !== -1) {
-              const before = readme.substring(0, startIndex + startMarker.length);
-              const after = readme.substring(endIndex);
-              readme = before + '\n' + projectsHtml + after;
+
+            // README.md ফাইল আপডেট
+            try {
+              let readme = fs.readFileSync('README.md', 'utf8');
+              const startMarker = '';
+              const endMarker = '';
+              const startIndex = readme.indexOf(startMarker);
+              const endIndex = readme.indexOf(endMarker);
+
+              if (startIndex !== -1 && endIndex !== -1) {
+                const before = readme.substring(0, startIndex + startMarker.length);
+                const after = readme.substring(endIndex);
+                const finalReadme = before + '\n' + projectsHtml + after;
+                fs.writeFileSync('README.md', finalReadme);
+              } else {
+                throw new Error('README.md ফাইলে মার্কার (PROJECTS_START) খুঁজে পাওয়া যায়নি!');
+              }
+            } catch (err) {
+              core.setFailed(err.message);
             }
-            
-            // আপডেট করা README.md সংরক্ষণ করুন
-            fs.writeFileSync('README.md', readme);
-            
-            console.log(`✅ README updated with ${filteredRepos.length} repositories!`);
-      
+
       - name: Commit and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update: Repository cards updated" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update: Pinned repository cards" && git push)
