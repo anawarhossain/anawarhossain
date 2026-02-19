@@ -190,37 +190,77 @@ const arif = {
 <!-- PROJECTS_START -->
 <div align="center">
 
-<h2>🗂️ All My Projects</h2>
+## 🗂️ All My Projects
 
 <table>
 <tr>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/Tea-House" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Tea-House&theme=tokyonight&hide_border=true" /></a><br/>
-      <strong>Tea-House</strong><br/><sub>Tea House project</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/Tea-House?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/Tea-House?style=social" alt="forks"/></td>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/TechWave" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=TechWave&theme=tokyonight&hide_border=true" /></a><br/>
-      <strong>TechWave</strong><br/><sub>TechWave - Podcast Website</sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/TechWave?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/TechWave?style=social" alt="forks"/></td>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/Corporate" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight&hide_border=true" /></a><br/>
-      <strong>Corporate</strong><br/><sub>Corporate Website </sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/Corporate?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/Corporate?style=social" alt="forks"/></td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/Tea-House" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Tea-House&theme=tokyonight&hide_border=true" alt="Tea-House"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/Tea-House" target="_blank">Tea-House</a></strong>
+      <br/>
+      <sub>Tea House project</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/Tea-House?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/Tea-House?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/TechWave" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=TechWave&theme=tokyonight&hide_border=true" alt="TechWave"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/TechWave" target="_blank">TechWave</a></strong>
+      <br/>
+      <sub>TechWave - Podcast Website</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/TechWave?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/TechWave?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/Corporate" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight&hide_border=true" alt="Corporate"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/Corporate" target="_blank">Corporate</a></strong>
+      <br/>
+      <sub>Corporate Website </sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/Corporate?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/Corporate?style=social" alt="forks"/>
+    </td>
 </tr>
 <tr>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/projects-g3-architect-website" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=projects-g3-architect-website&theme=tokyonight&hide_border=true" /></a><br/>
-      <strong>projects-g3-architect-website</strong><br/><sub>G3 Architect Website </sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/projects-g3-architect-website?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/projects-g3-architect-website?style=social" alt="forks"/></td>
-<td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/Knowledge-Vault" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Knowledge-Vault&theme=tokyonight&hide_border=true" /></a><br/>
-      <strong>Knowledge-Vault</strong><br/><sub>Knowledge -vault Website </sub><br/><img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/Knowledge-Vault?style=social" alt="forks"/></td>
-<td width="33%"></td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/projects-g3-architect-website" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=projects-g3-architect-website&theme=tokyonight&hide_border=true" alt="projects-g3-architect-website"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/projects-g3-architect-website" target="_blank">projects-g3-architect-website</a></strong>
+      <br/>
+      <sub>G3 Architect Website </sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/projects-g3-architect-website?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/projects-g3-architect-website?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/Knowledge-Vault" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Knowledge-Vault&theme=tokyonight&hide_border=true" alt="Knowledge-Vault"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/Knowledge-Vault" target="_blank">Knowledge-Vault</a></strong>
+      <br/>
+      <sub>Knowledge -vault Website </sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/Knowledge-Vault?style=social" alt="forks"/>
+    </td>
+  <td width="33%"></td>
 </tr>
 </table>
 
-<sub>Last Updated: Thursday, February 19, 2026 at 12:40 AM</sub>
+<sub>📅 Last Updated: Thursday, February 19, 2026 at 11:34 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
