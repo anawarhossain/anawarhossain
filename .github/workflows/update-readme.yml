@@ -2,7 +2,7 @@ name: Update README with Pinned Repositories
 
 on:
   schedule:
-    - cron: '0 18 * * *' # প্রতিদিন বাংলাদেশ সময় রাত ১২টায় (UTC 18:00)
+    - cron: '0 18 * * *' 
   workflow_dispatch: 
   push:
     branches:
@@ -12,7 +12,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # ফাইলে লেখার অনুমতি
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -25,7 +25,7 @@ jobs:
           script: |
             const fs = require('fs');
 
-            // GraphQL Query: পিন করা প্রোজেক্টগুলো আনার জন্য
+            // GraphQL Query: html_url এর বদলে url ব্যবহার করা হয়েছে
             const query = `
               query($username: String!) {
                 user(login: $username) {
@@ -34,7 +34,7 @@ jobs:
                       ... on Repository {
                         name
                         description
-                        html_url
+                        url
                         stargazerCount
                         forkCount
                       }
@@ -48,7 +48,6 @@ jobs:
             const result = await github.graphql(query, { username: username });
             const pinnedRepos = result.user.pinnedItems.nodes;
 
-            // HTML কার্ড জেনারেট করা
             let projectsHtml = '<div align="center">\n\n';
             projectsHtml += '<h2>📌 Featured Projects</h2>\n\n';
             projectsHtml += '<table>\n';
@@ -59,8 +58,9 @@ jobs:
                 const repo = pinnedRepos[i + j];
                 if (repo) {
                   const desc = repo.description || 'No description available';
+                  // repo.url ব্যবহার করা হয়েছে এখানে
                   projectsHtml += `<td width="33%" align="center">
-                  <a href="${repo.html_url}" target="_blank">
+                  <a href="${repo.url}" target="_blank">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=tokyonight&show_owner=false" />
                   </a><br/>
                   <sub>${desc.substring(0, 50)}${desc.length > 50 ? '...' : ''}</sub><br/>
@@ -78,7 +78,6 @@ jobs:
             projectsHtml += `<sub>সর্বশেষ আপডেট: ${new Date().toLocaleString('en-US', { timeZone: 'Asia/Dhaka', dateStyle: 'full', timeStyle: 'short' })}</sub>\n\n`;
             projectsHtml += '</div>\n';
 
-            // README.md ফাইল আপডেট
             try {
               let readme = fs.readFileSync('README.md', 'utf8');
               const startMarker = '';
@@ -89,10 +88,10 @@ jobs:
               if (startIndex !== -1 && endIndex !== -1) {
                 const before = readme.substring(0, startIndex + startMarker.length);
                 const after = readme.substring(endIndex);
-                const finalReadme = before + '\n' + projectsHtml + after;
-                fs.writeFileSync('README.md', finalReadme);
+                fs.writeFileSync('README.md', before + '\n' + projectsHtml + after);
+                console.log('✅ Success!');
               } else {
-                throw new Error('README.md ফাইলে মার্কার (PROJECTS_START) খুঁজে পাওয়া যায়নি!');
+                core.setFailed('README.md ফাইলে মার্কারগুলো পাওয়া যায়নি!');
               }
             } catch (err) {
               core.setFailed(err.message);
@@ -103,4 +102,4 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update: Pinned repository cards" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update: Pinned projects" && git push)
