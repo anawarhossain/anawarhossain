@@ -1,3 +1,66 @@
+
+<div align="center">
+
+<h2>📌 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/projects-g3-architect-website" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=projects-g3-architect-website&theme=tokyonight&show_owner=false" />
+      </a><br/>
+      <sub>G3 Architect Website </sub><br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/projects-g3-architect-website?style=social" />
+      <img src="https://img.shields.io/github/forks/anawarhossain/projects-g3-architect-website?style=social" />
+      </td>
+<td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/Corporate" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight&show_owner=false" />
+      </a><br/>
+      <sub>Corporate Website </sub><br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/Corporate?style=social" />
+      <img src="https://img.shields.io/github/forks/anawarhossain/Corporate?style=social" />
+      </td>
+<td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/Knowledge-Vault" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Knowledge-Vault&theme=tokyonight&show_owner=false" />
+      </a><br/>
+      <sub>Knowledge -vault Website </sub><br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=social" />
+      <img src="https://img.shields.io/github/forks/anawarhossain/Knowledge-Vault?style=social" />
+      </td>
+</tr>
+<tr>
+<td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/Tea-House" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Tea-House&theme=tokyonight&show_owner=false" />
+      </a><br/>
+      <sub>Tea House project</sub><br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/Tea-House?style=social" />
+      <img src="https://img.shields.io/github/forks/anawarhossain/Tea-House?style=social" />
+      </td>
+<td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/TechWave" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=TechWave&theme=tokyonight&show_owner=false" />
+      </a><br/>
+      <sub>TechWave - Podcast Website</sub><br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/TechWave?style=social" />
+      <img src="https://img.shields.io/github/forks/anawarhossain/TechWave?style=social" />
+      </td>
+<td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/anawarhossain" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=anawarhossain&theme=tokyonight&show_owner=false" />
+      </a><br/>
+      <sub>No description available</sub><br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/anawarhossain?style=social" />
+      <img src="https://img.shields.io/github/forks/anawarhossain/anawarhossain?style=social" />
+      </td>
+</tr>
+</table>
+
+<sub>সর্বশেষ আপডেট: Thursday, February 19, 2026 at 11:20 AM</sub>
+
+</div>
 <div align="center">
   
   <!-- BANNER IMAGE - পরিবর্তন করুন: আপনার কাস্টম ব্যানার ইমেজ URL দিন -->
