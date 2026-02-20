@@ -195,6 +195,18 @@ const arif = {
 <table>
 <tr>
   <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/Javascript-prcatice" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Javascript-prcatice&theme=tokyonight&hide_border=true" alt="Javascript-prcatice"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/Javascript-prcatice" target="_blank">Javascript-prcatice</a></strong>
+      <br/>
+      <sub>All JavaScript Practices are here.</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/Javascript-prcatice?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/Javascript-prcatice?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Tea-House" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Tea-House&theme=tokyonight&hide_border=true" alt="Tea-House"/>
       </a>
@@ -218,6 +230,8 @@ const arif = {
       <img src="https://img.shields.io/github/stars/anawarhossain/TechWave?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/TechWave?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Corporate" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight&hide_border=true" alt="Corporate"/>
@@ -230,8 +244,6 @@ const arif = {
       <img src="https://img.shields.io/github/stars/anawarhossain/Corporate?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Corporate?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/projects-g3-architect-website" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=projects-g3-architect-website&theme=tokyonight&hide_border=true" alt="projects-g3-architect-website"/>
@@ -256,11 +268,10 @@ const arif = {
       <img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Knowledge-Vault?style=social" alt="forks"/>
     </td>
-  <td width="33%"></td>
 </tr>
 </table>
 
-<sub>📅 Last Updated: Thursday, February 19, 2026 at 11:34 AM</sub>
+<sub>📅 Last Updated: Friday, February 20, 2026 at 8:12 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
