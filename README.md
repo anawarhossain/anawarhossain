@@ -195,18 +195,6 @@ const arif = {
 <table>
 <tr>
   <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/job-tracker" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-tracker&theme=tokyonight&hide_border=true" alt="job-tracker"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/job-tracker" target="_blank">job-tracker</a></strong>
-      <br/>
-      <sub>Job Tracker Website using JavaScript (DOM and Event)</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/job-tracker?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/job-tracker?style=social" alt="forks"/>
-    </td>
-  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Javascript-prcatice" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Javascript-prcatice&theme=tokyonight&hide_border=true" alt="Javascript-prcatice"/>
       </a>
@@ -217,6 +205,18 @@ const arif = {
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/Javascript-prcatice?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Javascript-prcatice?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/job-tracker" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-tracker&theme=tokyonight&hide_border=true" alt="job-tracker"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/job-tracker" target="_blank">job-tracker</a></strong>
+      <br/>
+      <sub>Job Tracker Website using JavaScript (DOM and Event)</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/job-tracker?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/job-tracker?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Tea-House" target="_blank">
@@ -287,7 +287,7 @@ const arif = {
 </tr>
 </table>
 
-<sub>📅 Last Updated: Monday, February 23, 2026 at 8:25 AM</sub>
+<sub>📅 Last Updated: Tuesday, February 24, 2026 at 8:22 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
