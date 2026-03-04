@@ -195,6 +195,30 @@ const arif = {
 <table>
 <tr>
   <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/english-janala" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=english-janala&theme=tokyonight&hide_border=true" alt="english-janala"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/english-janala" target="_blank">english-janala</a></strong>
+      <br/>
+      <sub>English janala project</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/english-janala?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/english-janala?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/json-post-load" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=json-post-load&theme=tokyonight&hide_border=true" alt="json-post-load"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/json-post-load" target="_blank">json-post-load</a></strong>
+      <br/>
+      <sub>json post load practice</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/json-post-load?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/json-post-load?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/bpl-dhaka-team" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=bpl-dhaka-team&theme=tokyonight&hide_border=true" alt="bpl-dhaka-team"/>
       </a>
@@ -206,6 +230,8 @@ const arif = {
       <img src="https://img.shields.io/github/stars/anawarhossain/bpl-dhaka-team?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/bpl-dhaka-team?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/job-tracker" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-tracker&theme=tokyonight&hide_border=true" alt="job-tracker"/>
@@ -230,8 +256,6 @@ const arif = {
       <img src="https://img.shields.io/github/stars/anawarhossain/Tea-House?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Tea-House?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/TechWave" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=TechWave&theme=tokyonight&hide_border=true" alt="TechWave"/>
@@ -244,6 +268,8 @@ const arif = {
       <img src="https://img.shields.io/github/stars/anawarhossain/TechWave?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/TechWave?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Corporate" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight&hide_border=true" alt="Corporate"/>
@@ -268,8 +294,6 @@ const arif = {
       <img src="https://img.shields.io/github/stars/anawarhossain/projects-g3-architect-website?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/projects-g3-architect-website?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Knowledge-Vault" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Knowledge-Vault&theme=tokyonight&hide_border=true" alt="Knowledge-Vault"/>
@@ -282,12 +306,10 @@ const arif = {
       <img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Knowledge-Vault?style=social" alt="forks"/>
     </td>
-  <td width="33%"></td>
-  <td width="33%"></td>
 </tr>
 </table>
 
-<sub>📅 Last Updated: Tuesday, March 3, 2026 at 8:23 AM</sub>
+<sub>📅 Last Updated: Wednesday, March 4, 2026 at 8:09 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
