@@ -195,16 +195,16 @@ const arif = {
 <table>
 <tr>
   <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/github-issues-tracker" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=github-issues-tracker&theme=tokyonight&hide_border=true" alt="github-issues-tracker"/>
+      <a href="https://github.com/anawarhossain/github-issue-tracker" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=github-issue-tracker&theme=tokyonight&hide_border=true" alt="github-issue-tracker"/>
       </a>
       <br/>
-      <strong><a href="https://github.com/anawarhossain/github-issues-tracker" target="_blank">github-issues-tracker</a></strong>
+      <strong><a href="https://github.com/anawarhossain/github-issue-tracker" target="_blank">github-issue-tracker</a></strong>
       <br/>
       <sub>GitHub Issues Tracker</sub>
       <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/github-issues-tracker?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/github-issues-tracker?style=social" alt="forks"/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/github-issue-tracker?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/github-issue-tracker?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/english-janala" target="_blank">
@@ -325,7 +325,7 @@ const arif = {
 </tr>
 </table>
 
-<sub>📅 Last Updated: Friday, March 6, 2026 at 8:11 AM</sub>
+<sub>📅 Last Updated: Saturday, March 7, 2026 at 8:05 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
