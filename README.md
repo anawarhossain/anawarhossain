@@ -132,18 +132,6 @@ const arif = {
 <table>
 <tr>
   <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/github-issue-tracker" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=github-issue-tracker&theme=tokyonight&hide_border=true" alt="github-issue-tracker"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/github-issue-tracker" target="_blank">github-issue-tracker</a></strong>
-      <br/>
-      <sub>GitHub Issues Tracker</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/github-issue-tracker?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/github-issue-tracker?style=social" alt="forks"/>
-    </td>
-  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/english-janala" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=english-janala&theme=tokyonight&hide_border=true" alt="english-janala"/>
       </a>
@@ -154,6 +142,18 @@ const arif = {
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/english-janala?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/english-janala?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/github-issue-tracker" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=github-issue-tracker&theme=tokyonight&hide_border=true" alt="github-issue-tracker"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/github-issue-tracker" target="_blank">github-issue-tracker</a></strong>
+      <br/>
+      <sub>GitHub Issues Tracker</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/github-issue-tracker?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/github-issue-tracker?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/json-post-load" target="_blank">
@@ -262,7 +262,7 @@ const arif = {
 </tr>
 </table>
 
-<sub>📅 Last Updated: Saturday, March 14, 2026 at 8:09 AM</sub>
+<sub>📅 Last Updated: Sunday, March 15, 2026 at 8:35 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
