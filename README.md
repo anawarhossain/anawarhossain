@@ -5,7 +5,7 @@
 
   <!-- TYPING ANIMATION - পরিবর্তন করুন: নাম ও টাইটেল -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=Front-end+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 
   <!-- VISITOR COUNTER -->
@@ -18,11 +18,11 @@
 ## 👨‍💻 About Me
 
 <!-- পরিবর্তন করুন: নিজের সম্পর্কে তথ্য -->
-> 🚀 Passionate Full Stack Web Developer from Bangladesh
+> 🚀 Passionate Front-end Web Developer from Bangladesh
 
 - 🎯 Building scalable and user-friendly web applications
 - 💡 Love to explore new technologies and frameworks
-- 🌱 Currently diving deep into **Cloud Computing** and **DevOps**
+- 🌱 Currently diving deep into **React** and **Next.js**
 - 🤝 Open to collaborate on **Open Source Projects**
 - ⚡ Fun fact: **I debug code faster with coffee ☕**
 
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### ⚙️ Backend Development
+# ⚙️ Backend Development (My Next Learning Target)
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
@@ -111,7 +111,7 @@
 ```javascript
 const arif = {
     currentlyWorking: "Building a Full Stack E-commerce Platform",
-    currentlyLearning: ["AWS", "Kubernetes", "Microservices"],
+    currentlyLearning: ["React", "Next.js", "Database"],
     lookingToCollaborate: "Open Source Projects & Innovative Web Apps",
     goals2026: "Master Cloud Architecture & Contribute to 100+ Open Source PRs",
     funFact: "I can code for 12 hours straight with just music and coffee!"
@@ -322,11 +322,13 @@ const arif = {
 
 <!-- পরিবর্তন করুন: আপনার ব্লগ পোস্ট লিংক যোগ করুন অথবা এই সেকশন মুছে দিন -->
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a REST API with Node.js and Express](https://yourblog.com/post1)
-- [Understanding React Hooks: A Complete Guide](https://yourblog.com/post2)
+<!--
+- [How to Build a REST API with Node.js and Express](https://yourblog.com/post1) 
+- [Understanding React Hooks: A Complete Guide](https://yourblog.com/post2) 
 - [10 JavaScript Tips Every Developer Should Know](https://yourblog.com/post3)
+-->
 <!-- BLOG-POST-LIST:END -->
-
+- Comming...
 ---
 
 ## 💬 Random Dev Quote
@@ -342,6 +344,9 @@ const arif = {
 
 <!-- পরিবর্তন করুন: আপনার সোশ্যাল মিডিয়া লিংক -->
 <p align="center">
+  <a href="mailto:anawarhossain0102@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://linkedin.com/in/anawarhossain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -364,12 +369,13 @@ const arif = {
 ## ☕ Support My Work
 
 <!-- পরিবর্তন করুন: আপনার donation লিংক বা এই সেকশন মুছে দিন -->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourname">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourname&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
+<!--
+  <p align="center">
+    <a href="https://www.buymeacoffee.com/yourname">
+      <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourname&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee"/>
+    </a>
+  </p>
+-->
 ---
 
 <div align="center">
