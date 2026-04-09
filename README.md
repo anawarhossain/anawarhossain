@@ -109,7 +109,7 @@
 
 <!-- পরিবর্তন করুন: বর্তমান কার্যক্রম -->
 ```javascript
-const arif = {
+const AnawarHossain = {
     currentlyWorking: "Building a Full Stack E-commerce Platform",
     currentlyLearning: ["React", "Next.js", "Database"],
     lookingToCollaborate: "Open Source Projects & Innovative Web Apps",
