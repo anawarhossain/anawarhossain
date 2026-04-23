@@ -132,6 +132,44 @@ const AnawarHossain = {
 <table>
 <tr>
   <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/data-fetching-practice" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=data-fetching-practice&theme=tokyonight&hide_border=true" alt="data-fetching-practice"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/data-fetching-practice" target="_blank">data-fetching-practice</a></strong>
+      <br/>
+      <sub>Next.js project data fetching practice (basic to advance)</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/data-fetching-practice?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/data-fetching-practice?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/server-action-practice" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=server-action-practice&theme=tokyonight&hide_border=true" alt="server-action-practice"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/server-action-practice" target="_blank">server-action-practice</a></strong>
+      <br/>
+      <sub>Next.js Project Server action practice </sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/server-action-practice?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/server-action-practice?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/authentication-practice-using-betterauth" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=authentication-practice-using-betterauth&theme=tokyonight&hide_border=true" alt="authentication-practice-using-betterauth"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/authentication-practice-using-betterauth" target="_blank">authentication-practice-using-betterauth</a></strong>
+      <br/>
+      <sub>Authentication Practice using BetterAuth and MongoDB Atlas</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/authentication-practice-using-betterauth?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/authentication-practice-using-betterauth?style=social" alt="forks"/>
+    </td>
+</tr>
+<tr>
+  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/nextjs-routing-practice-using-app-router" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=nextjs-routing-practice-using-app-router&theme=tokyonight&hide_border=true" alt="nextjs-routing-practice-using-app-router"/>
       </a>
@@ -349,7 +387,7 @@ const AnawarHossain = {
 </tr>
 </table>
 
-<sub>📅 Last Updated: Wednesday, April 22, 2026 at 8:43 AM</sub>
+<sub>📅 Last Updated: Thursday, April 23, 2026 at 8:46 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
