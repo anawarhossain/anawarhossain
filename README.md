@@ -132,6 +132,18 @@ const AnawarHossain = {
 <table>
 <tr>
   <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/authentication-practice-using-betterauth" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=authentication-practice-using-betterauth&theme=tokyonight&hide_border=true" alt="authentication-practice-using-betterauth"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/authentication-practice-using-betterauth" target="_blank">authentication-practice-using-betterauth</a></strong>
+      <br/>
+      <sub>Authentication Practice using BetterAuth and MongoDB Atlas</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/authentication-practice-using-betterauth?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/authentication-practice-using-betterauth?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/data-fetching-practice" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=data-fetching-practice&theme=tokyonight&hide_border=true" alt="data-fetching-practice"/>
       </a>
@@ -154,18 +166,6 @@ const AnawarHossain = {
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/server-action-practice?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/server-action-practice?style=social" alt="forks"/>
-    </td>
-  <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/authentication-practice-using-betterauth" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=authentication-practice-using-betterauth&theme=tokyonight&hide_border=true" alt="authentication-practice-using-betterauth"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/authentication-practice-using-betterauth" target="_blank">authentication-practice-using-betterauth</a></strong>
-      <br/>
-      <sub>Authentication Practice using BetterAuth and MongoDB Atlas</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/authentication-practice-using-betterauth?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/authentication-practice-using-betterauth?style=social" alt="forks"/>
     </td>
 </tr>
 <tr>
@@ -387,7 +387,7 @@ const AnawarHossain = {
 </tr>
 </table>
 
-<sub>📅 Last Updated: Thursday, April 23, 2026 at 8:46 AM</sub>
+<sub>📅 Last Updated: Friday, April 24, 2026 at 8:47 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
