@@ -132,16 +132,28 @@ const AnawarHossain = {
 <table>
 <tr>
   <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/nextjs-user-management" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=nextjs-user-management&theme=tokyonight&hide_border=true" alt="nextjs-user-management"/>
+      <a href="https://github.com/anawarhossain/crud-client" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=crud-client&theme=tokyonight&hide_border=true" alt="crud-client"/>
       </a>
       <br/>
-      <strong><a href="https://github.com/anawarhossain/nextjs-user-management" target="_blank">nextjs-user-management</a></strong>
+      <strong><a href="https://github.com/anawarhossain/crud-client" target="_blank">crud-client</a></strong>
       <br/>
-      <sub>Server Practice</sub>
+      <sub>CRUD practice using nextjs, node.js, express.js</sub>
       <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/nextjs-user-management?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/nextjs-user-management?style=social" alt="forks"/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/crud-client?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/crud-client?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/crud-server" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=crud-server&theme=tokyonight&hide_border=true" alt="crud-server"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/crud-server" target="_blank">crud-server</a></strong>
+      <br/>
+      <sub>CRUD practice using nextjs, node.js, express.js</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/crud-server?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/crud-server?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/express-user-management" target="_blank">
@@ -155,6 +167,20 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/express-user-management?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/express-user-management?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/nextjs-user-management" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=nextjs-user-management&theme=tokyonight&hide_border=true" alt="nextjs-user-management"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/nextjs-user-management" target="_blank">nextjs-user-management</a></strong>
+      <br/>
+      <sub>Server Practice</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/nextjs-user-management?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/nextjs-user-management?style=social" alt="forks"/>
+    </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/suncart" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=suncart&theme=tokyonight&hide_border=true" alt="suncart"/>
@@ -167,8 +193,6 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/suncart?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/suncart?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/dragon-news" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=dragon-news&theme=tokyonight&hide_border=true" alt="dragon-news"/>
@@ -181,6 +205,8 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/dragon-news?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/dragon-news?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/keenkeeper" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=keenkeeper&theme=tokyonight&hide_border=true" alt="keenkeeper"/>
@@ -205,8 +231,6 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/book-vibe?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/book-vibe?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/playstore-project" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=playstore-project&theme=tokyonight&hide_border=true" alt="playstore-project"/>
@@ -219,6 +243,8 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/playstore-project?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/playstore-project?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/server-action-practice" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=server-action-practice&theme=tokyonight&hide_border=true" alt="server-action-practice"/>
@@ -243,8 +269,6 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/authentication-practice-using-betterauth?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/authentication-practice-using-betterauth?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/data-fetching-practice" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=data-fetching-practice&theme=tokyonight&hide_border=true" alt="data-fetching-practice"/>
@@ -257,6 +281,8 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/data-fetching-practice?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/data-fetching-practice?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/nextjs-routing-practice-using-app-router" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=nextjs-routing-practice-using-app-router&theme=tokyonight&hide_border=true" alt="nextjs-routing-practice-using-app-router"/>
@@ -281,8 +307,6 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/nextjs-practice-ecommerce?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/nextjs-practice-ecommerce?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/bpl-players-draft" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=bpl-players-draft&theme=tokyonight&hide_border=true" alt="bpl-players-draft"/>
@@ -295,6 +319,8 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/bpl-players-draft?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/bpl-players-draft?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/digitools" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=digitools&theme=tokyonight&hide_border=true" alt="digitools"/>
@@ -319,8 +345,6 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/english-janala?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/english-janala?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/github-issue-tracker" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=github-issue-tracker&theme=tokyonight&hide_border=true" alt="github-issue-tracker"/>
@@ -333,6 +357,8 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/github-issue-tracker?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/github-issue-tracker?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/json-post-load" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=json-post-load&theme=tokyonight&hide_border=true" alt="json-post-load"/>
@@ -357,8 +383,6 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/bpl-dhaka-team?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/bpl-dhaka-team?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/job-tracker" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-tracker&theme=tokyonight&hide_border=true" alt="job-tracker"/>
@@ -371,6 +395,8 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/job-tracker?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/job-tracker?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Tea-House" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Tea-House&theme=tokyonight&hide_border=true" alt="Tea-House"/>
@@ -395,8 +421,6 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/TechWave?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/TechWave?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Corporate" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=Corporate&theme=tokyonight&hide_border=true" alt="Corporate"/>
@@ -409,6 +433,8 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/Corporate?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Corporate?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/projects-g3-architect-website" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=projects-g3-architect-website&theme=tokyonight&hide_border=true" alt="projects-g3-architect-website"/>
@@ -433,10 +459,11 @@ const AnawarHossain = {
       <img src="https://img.shields.io/github/stars/anawarhossain/Knowledge-Vault?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Knowledge-Vault?style=social" alt="forks"/>
     </td>
+  <td width="33%"></td>
 </tr>
 </table>
 
-<sub>📅 Last Updated: Friday, May 8, 2026 at 9:20 AM</sub>
+<sub>📅 Last Updated: Saturday, May 9, 2026 at 8:56 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
