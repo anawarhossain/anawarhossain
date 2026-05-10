@@ -132,18 +132,6 @@ const AnawarHossain = {
 <table>
 <tr>
   <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/crud-client" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=crud-client&theme=tokyonight&hide_border=true" alt="crud-client"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/crud-client" target="_blank">crud-client</a></strong>
-      <br/>
-      <sub>CRUD practice using nextjs, node.js, express.js</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/crud-client?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/crud-client?style=social" alt="forks"/>
-    </td>
-  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/crud-server" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=crud-server&theme=tokyonight&hide_border=true" alt="crud-server"/>
       </a>
@@ -154,6 +142,18 @@ const AnawarHossain = {
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/crud-server?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/crud-server?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/crud-client" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=crud-client&theme=tokyonight&hide_border=true" alt="crud-client"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/crud-client" target="_blank">crud-client</a></strong>
+      <br/>
+      <sub>CRUD practice using nextjs, node.js, express.js</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/crud-client?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/crud-client?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/express-user-management" target="_blank">
@@ -463,7 +463,7 @@ const AnawarHossain = {
 </tr>
 </table>
 
-<sub>📅 Last Updated: Saturday, May 9, 2026 at 8:56 AM</sub>
+<sub>📅 Last Updated: Sunday, May 10, 2026 at 9:28 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
