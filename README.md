@@ -5,8 +5,12 @@
 
   <!-- TYPING ANIMATION - পরিবর্তন করুন: নাম ও টাইটেল -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=Front-end+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Front-end+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-anawarhossain.com-0e75b6?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://anawarhossain2.netlify.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-anawarhossain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anawarhossain/)
+  [![Email](https://img.shields.io/badge/Email-anawarhossain@gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anawarhossain0102@gmail.com)
 
   <!-- VISITOR COUNTER -->
   <img src="https://komarev.com/ghpvc/?username=anawarhossain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -15,24 +19,40 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- About Me Typing -->
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=👨‍💻+About+Me)
 
-<!-- পরিবর্তন করুন: নিজের সম্পর্কে তথ্য -->
-> 🚀 Passionate Front-end Web Developer from Bangladesh
+<!-- About Me Information -->
+Hi, I'm Anawar Hossain 👋
+A passionate Full Stack and Android Developer from Bangladesh
+I love building modern web applications, Android apps, and real-world software solutions.
+Currently working with React, Next.js, Node.js, Express.js, TypeScript, Tailwind CSS, Supabase, MongoDB, Java, Android Studio.
 
-- 🎯 Building scalable and user-friendly web applications
-- 💡 Love to explore new technologies and frameworks
-- 🌱 Currently diving deep into **React** and **Next.js**
-- 🤝 Open to collaborate on **Open Source Projects**
-- ⚡ Fun fact: **I debug code faster with coffee ☕**
+```
+🌍 Available for Remote & On-site Opportunities
+💻 Frontend & MERN Stack Developer
+🚀 Building fast, scalable, and modern full-stack applications with MongoDB, Express.js, React, Next.js, and Node.js
+🎯 Focused on creating clean user experiences, efficient backend systems, and production-ready applications
+⚡ Passionate about continuous learning, software architecture, and turning ideas into impactful digital products
+```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<!-- Tech Stack & Skills Typing -->
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=🛠️+Tech+Stack+%26+Skills)
 
-<!-- পরিবর্তন করুন: আপনার স্কিল অনুযায়ী আইকন যোগ/বাদ দিন -->
 
-### 💻 Frontend Development
+**➦ MERN Stack (Currently Mastering...)**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+💻 Frontend Development
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -43,7 +63,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-# ⚙️ Backend Development (My Next Learning Target)
+---
+⚙️ Backend Development 
+
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
@@ -51,15 +73,22 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-### 🗄️ Databases
+---
+
+🗄️ Databases
+
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-4EA94B?style=for-the-badge&logo=Supabase&logoColor=black" alt="Supabase"/>
 </p>
 
-### 🔧 Tools & Platforms
+---
+
+🔧 Tools & Platforms
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -108,23 +137,327 @@
 ## 🎯 Current Focus
 
 <!-- পরিবর্তন করুন: বর্তমান কার্যক্রম -->
+
 ```javascript
 const AnawarHossain = {
-    currentlyWorking: "Building a Full Stack E-commerce Platform",
-    currentlyLearning: ["React", "Next.js", "Database"],
-    lookingToCollaborate: "Open Source Projects & Innovative Web Apps",
-    goals2026: "Master Cloud Architecture & Contribute to 100+ Open Source PRs",
-    funFact: "I can code for 12 hours straight with just music and coffee!"
+  currentlyWorking: "Building a Full Stack E-commerce Platform",
+  currentlyLearning: ["React", "Next.js", "Database"],
+  lookingToCollaborate: "Open Source Projects & Innovative Web Apps",
+  goals2026: "Master Cloud Architecture & Contribute to 100+ Open Source PRs",
+  funFact: "I can code for 12 hours straight with just music and coffee!",
 };
 ```
 
 ---
 
-## 🚀 Featured Projects
+<!-- Featured Projects Typing -->
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=🚀+Featured+Projects)
 
-<!-- এই সেকশন অটোমেটিক আপডেট হবে - নিচে দেখুন -->
+<details>
+  <summary style="cursor: pointer;">
+    <h4 style="display: inline;"> 🚀 <b>My Some Projects</b> ⤵ </h4>
+    <hr/>
+  </summary>
 
-<!-- PROJECTS_START -->
+  ⚛️ Projects Link Comming soon ...
+
+---
+</details>
+
+
+<!-- 💬 What Clients & Collaborators Say Typing -->
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=💬+What+Client+Say)
+
+<details>
+  <summary style="cursor: pointer;">
+    <h4 style="display: inline;"> 💬 <b> What Clients & Collaborators Say</b> ⤵ </h4>
+    <hr/>
+  </summary>
+
+  <!-- CLIENT_REVIEWS_START -->
+  <div align="center">
+
+  ## 💬 What Clients & Collaborators Say
+
+  <table width="100%">
+    <tr>
+      <td width="50%" align="left">
+        <p>
+          "Anawar is an exceptional developer. His expertise in Next.js and Supabase helped us launch our e-commerce platform ahead of schedule. Highly recommended!"
+        </p>
+        <hr/>
+        <strong>⭐ Rahman</strong><br/>
+        <sub>CEO, Solver Point</sub>
+      </td>
+      <td width="50%" align="left">
+        <p>
+          "Working with him was a great experience. He has a deep understanding of full-stack development and writes very clean, maintainable code."
+        </p>
+        <hr/>
+        <strong>⭐ Project Manager</strong><br/>
+        <sub>Digital Agency</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="left">
+        <p>
+          "The issue tracking dashboard he built for us is amazing. Very intuitive UI and robust functionality. A true problem solver!"
+        </p>
+        <hr/>
+        <strong>⭐ Developer Peer</strong><br/>
+        <sub>Open Source Contributor</sub>
+      </td>
+      <td width="50%" align="left">
+        <p>
+          "Excellent communication and technical skills. He understood our requirements perfectly and delivered a high-quality product."
+        </p>
+        <hr/>
+        <strong>⭐ Startup Founder</strong><br/>
+        <sub>E-commerce Project</sub>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Optional: Link to LinkedIn Recommendations -->
+  <p>
+    <a href="https://www.linkedin.com/in/anawarhossain/details/recommendations/" target="_blank">
+      <img src="https://img.shields.io/badge/View_More_on_LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Recommendations"/>
+    </a>
+  </p>
+
+  </div>
+<!-- CLIENT_REVIEWS_END -->
+
+---
+</details>
+
+<!-- 🎓 Education Typing -->
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=🎓+Education)
+
+<details>
+  <summary style="cursor: pointer;">
+    <h4 style="display: inline;"> 🎓 <b>View Academic Background</b> ⤵ </h4>
+    <hr/>
+  </summary>
+
+<!-- EDUCATION_START -->
+## 💬 Educational Background
+
+- 🇧🇩 **Bachelor of Science in Computer Science & Engineering (BSc)** — (2019 — 2026)
+  - 🏫 National University
+
+- 🇧🇩 **Higher Secondary Certificate (HSC)** — (2016 — 2018)
+  - 🏫 Anuhola Hight School
+
+- 🇧🇩 **Secondary School Certificate (SSC)** — (2011 — 2016)
+  - 🏫 Anuhola Hight School
+
+<br/>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/Continuous_Learner-0e75b6?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Education Badge"/>
+  </div>
+<!-- EDUCATION_END -->
+
+---
+</details>
+
+
+<!-- Latest Blog Posts Typing -->
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=📝+Latest+Blog+Posts)
+
+<details>
+  <summary style="cursor: pointer;">
+    <h4 style="display: inline;"> 📝 <b>My Blog Post</b> ⤵ </h4>
+    <hr/>
+  </summary>
+
+  
+  <!-- BLOG-POST-LIST:START -->
+  <div align="center">
+
+  ## 📝 Latest Blog Posts
+
+  <table width="100%">
+    <thead>
+      <tr>
+        <th align="center" width="20%">📅 Date</th>
+        <th align="left" width="50%">📖 Blog Title</th>
+        <th align="center" width="15%">🏷️ Category</th>
+        <th align="center" width="15%">🔗 Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">Date Comming Soon...</td>
+        <td align="left"><strong>Title Comming Soon...</strong></td>
+        <td align="center"><code>Category Comming Soon...</code></td>
+        <td align="center"><a href="YOUR_BLOG_LINK"><img src="https://img.shields.io/badge/Read-0e75b6?style=flat-square" alt="Read"/></a></td>
+      </tr>
+    </tbody>
+  </table>
+
+  </div>
+
+  ---
+</details>
+
+
+<!-- Random Dev Quote Typing -->
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=💬+Random+Dev+Quote)
+
+<!-- এটি স্বয়ংক্রিয়ভাবে পরিবর্তন হবে -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<!-- Connect With Me Typing -->
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=🤝+Connect+With+Me)
+
+<!-- Social Media -->
+<p align="center">
+  <a href="mailto:anawarhossain0102@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/anawarhossain" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/MDANAWAR22" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:anwarhossainhossain01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://anawarhossain.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.facebook.com/AnawarHossain55" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+---
+
+<!-- Support My Work Typing -->
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=☕+Support+My+Work)
+
+
+<details>
+  <summary style="cursor: pointer;">
+    <h4 style="display: inline;"> ☕ <b>Support My Work</b> ⤵ </h4>
+    <hr/>
+  </summary>
+
+<!-- SUPPORT_START -->
+<div align="center">
+
+  ## ☕ Support My Work
+
+  <p align="center">
+    If you find my projects helpful or like what I build, consider supporting my work to keep the servers running and coffee flowing!
+  </p>
+
+  <a href="https://www.buymeacoffee.com/anawarhossain" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
+  </a>
+  <a href="https://paypal.me/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="35" />
+  </a>
+
+<br/>
+
+  ---
+<br/>
+
+  <!-- Local Support (Optional) -->
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/bKash-D12053?style=for-the-badge&logo=bKash&logoColor=white" alt="bkash"/><br/>
+        <code>Comming Soon</code>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/Nagad-F5921E?style=for-the-badge&logo=Nagad&logoColor=white" alt="nagad"/><br/>
+        <code>Comming Soon</code>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  *Every contribution matters and inspires me to build more open-source tools!* 🚀
+
+</div>
+<!-- SUPPORT_END -->
+
+---
+</details>
+
+
+
+<div align="center">
+  
+  
+  <!-- Quote of the Day Typing -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=💭+Quote+Of+The+Day" alt="Quote of the Day" />
+  
+  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  
+  ---
+  
+  ### 🎵 Now Playing on Spotify
+  <!-- 🎵 Now Playing on Spotify Typing -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=🎵+Now+Playing+On+Spotify" alt="Now Playing on Spotify" />
+  
+  <!-- পরিবর্তন করুন: আপনার Spotify username -->
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=317vyqnub7q32hy5k4jbibyceiiy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+
+---
+
+### 📈 Contribution Snake
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anawarhossain/anawarhossain/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anawarhossain/anawarhossain/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anawarhossain/anawarhossain/output/github-contribution-grid-snake.svg">
+  </picture>
+
+---
+
+**Thanks for visiting! 😊**
+
+_Don't forget to ⭐ my repositories if you find them useful!_
+
+<div align="center">
+  <h3>🚀 Let's Build Something Amazing Together!</h3>
+  <p>
+    I am always open to collaborating on <b>innovative web applications</b> and <b>open-source projects</b>.<br/>
+    If you find my work valuable, a <b>⭐ on my repositories</b> would be much appreciated!
+  </p>
+  
+  <a href="mailto:anawarhossain0102@gmail.com.com">
+    <img src="https://img.shields.io/badge/Get_In_Touch-0e75b6?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me"/>
+  </a>
+  <a href="https://linkedin.com/in/anawarhossain">
+    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+</div>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+  <br/>
+  <details>
+  <summary style="cursor: pointer;">
+    <h2 style="display: inline;"> 📂 <b>Here is my all Repository</b> ⤵ </h2>
+    <hr/>
+  </summary>
+
+  <!-- PROJECTS_START -->
 <div align="center">
 
 ## 🗂️ All My Projects
@@ -495,97 +828,6 @@ const AnawarHossain = {
 </div>
 <!-- PROJECTS_END -->
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- পরিবর্তন করুন: আপনার ব্লগ পোস্ট লিংক যোগ করুন অথবা এই সেকশন মুছে দিন -->
-<!-- BLOG-POST-LIST:START -->
-<!--
-- [How to Build a REST API with Node.js and Express](https://yourblog.com/post1) 
-- [Understanding React Hooks: A Complete Guide](https://yourblog.com/post2) 
-- [10 JavaScript Tips Every Developer Should Know](https://yourblog.com/post3)
--->
-<!-- BLOG-POST-LIST:END -->
-- Comming...
----
-
-## 💬 Random Dev Quote
-
-<!-- এটি স্বয়ংক্রিয়ভাবে পরিবর্তন হবে -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<!-- পরিবর্তন করুন: আপনার সোশ্যাল মিডিয়া লিংক -->
-<p align="center">
-  <a href="mailto:anawarhossain0102@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/anawarhossain" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/MDANAWAR22" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:anwarhossainhossain01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://anawarhossain.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.facebook.com/AnawarHossain55" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
-
----
-
-## ☕ Support My Work
-
-<!-- পরিবর্তন করুন: আপনার donation লিংক বা এই সেকশন মুছে দিন -->
-<!--
-  <p align="center">
-    <a href="https://www.buymeacoffee.com/yourname">
-      <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourname&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee"/>
-    </a>
-  </p>
--->
----
-
-<div align="center">
-  
-  ### 💭 Quote of the Day
-  
-  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-  
-  ---
-  
-  ### 🎵 Now Playing on Spotify
-  
-  <!-- পরিবর্তন করুন: আপনার Spotify username -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
-
-  ---
-  
-  ### 📈 Contribution Snake
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anawarhossain/anawarhossain/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anawarhossain/anawarhossain/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anawarhossain/anawarhossain/output/github-contribution-grid-snake.svg">
-  </picture>
-
-  ---
-  
-  **Thanks for visiting! 😊**
-  
-  *Don't forget to ⭐ my repositories if you find them useful!*
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</details>
   
 </div>
