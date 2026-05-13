@@ -46,7 +46,7 @@ Currently working with React, Next.js, Node.js, Express.js, TypeScript, Tailwind
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
@@ -90,12 +90,28 @@ Currently working with React, Next.js, Node.js, Express.js, TypeScript, Tailwind
 🔧 Tools & Platforms
 
 <p align="left">
+
+  <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+  <!-- Code Editors & IDEs -->
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime Text"/>
+
+  <!-- Cloud Platforms -->
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+
+  <!-- Package Managers -->
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
 </p>
 
 ---
@@ -249,7 +265,7 @@ const AnawarHossain = {
   - 🏫 National University
 
 - 🇧🇩 **Higher Secondary Certificate (HSC)** — (2016 — 2018)
-  - 🏫 Anuhola Hight School
+  - 🏫 Major General Mahmudul Hasan College
 
 - 🇧🇩 **Secondary School Certificate (SSC)** — (2011 — 2016)
   - 🏫 Anuhola Hight School
@@ -294,7 +310,7 @@ const AnawarHossain = {
         <td align="center">Date Comming Soon...</td>
         <td align="left"><strong>Title Comming Soon...</strong></td>
         <td align="center"><code>Category Comming Soon...</code></td>
-        <td align="center"><a href="YOUR_BLOG_LINK"><img src="https://img.shields.io/badge/Read-0e75b6?style=flat-square" alt="Read"/></a></td>
+        <td align="center"><a href="#"><img src="https://img.shields.io/badge/Read-0e75b6?style=flat-square" alt="Read"/></a></td>
       </tr>
     </tbody>
   </table>
@@ -409,12 +425,10 @@ const AnawarHossain = {
   
   ---
   
-  ### 🎵 Now Playing on Spotify
   <!-- 🎵 Now Playing on Spotify Typing -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=🎵+Now+Playing+On+Spotify" alt="Now Playing on Spotify" />
-  
-  <!-- পরিবর্তন করুন: আপনার Spotify username -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=317vyqnub7q32hy5k4jbibyceiiy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317vyqnub7q32hy5k4jbibyceiiy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
