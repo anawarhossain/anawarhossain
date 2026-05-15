@@ -464,18 +464,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 <table>
 <tr>
   <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/wanderlust-client" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=wanderlust-client&theme=tokyonight&hide_border=true" alt="wanderlust-client"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/wanderlust-client" target="_blank">wanderlust-client</a></strong>
-      <br/>
-      <sub>Wanderlust Project Client site</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/wanderlust-client?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/wanderlust-client?style=social" alt="forks"/>
-    </td>
-  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/wanderlust-server" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=wanderlust-server&theme=tokyonight&hide_border=true" alt="wanderlust-server"/>
       </a>
@@ -486,6 +474,18 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/wanderlust-server?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/wanderlust-server?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/wanderlust-client" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=wanderlust-client&theme=tokyonight&hide_border=true" alt="wanderlust-client"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/wanderlust-client" target="_blank">wanderlust-client</a></strong>
+      <br/>
+      <sub>Wanderlust Project Client site</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/wanderlust-client?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/wanderlust-client?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/crud-server" target="_blank">
@@ -822,7 +822,7 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 </tr>
 </table>
 
-<sub>📅 Last Updated: Thursday, May 14, 2026 at 9:34 AM</sub>
+<sub>📅 Last Updated: Friday, May 15, 2026 at 9:38 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
