@@ -464,18 +464,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 <table>
 <tr>
   <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/playzone-server" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=playzone-server&theme=tokyonight&hide_border=true" alt="playzone-server"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/playzone-server" target="_blank">playzone-server</a></strong>
-      <br/>
-      <sub>Sports Facility Booking Management System Server</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/playzone-server?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/playzone-server?style=social" alt="forks"/>
-    </td>
-  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/playzone-client" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=playzone-client&theme=tokyonight&hide_border=true" alt="playzone-client"/>
       </a>
@@ -486,6 +474,18 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/playzone-client?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/playzone-client?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/playzone-server" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=playzone-server&theme=tokyonight&hide_border=true" alt="playzone-server"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/playzone-server" target="_blank">playzone-server</a></strong>
+      <br/>
+      <sub>Sports Facility Booking Management System Server</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/playzone-server?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/playzone-server?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/wanderlust-server" target="_blank">
@@ -844,7 +844,7 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 </tr>
 </table>
 
-<sub>📅 Last Updated: Friday, May 22, 2026 at 9:50 AM</sub>
+<sub>📅 Last Updated: Saturday, May 23, 2026 at 9:26 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
