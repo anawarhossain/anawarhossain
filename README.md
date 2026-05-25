@@ -145,14 +145,14 @@ const AnawarHossain = {
   currentlyLearning: ["React", "Next.js", "Database"],
   lookingToCollaborate: "Open Source Projects & Innovative Web Apps",
   goals2026: "Master Cloud Architecture & Contribute to 100+ Open Source PRs",
-  funFact: "I can code for 12 hours straight with just music and coffee!",
+  funFact: "I can code for 12 hours straight with just Quran and coffee!",
 };
 ```
 
 ---
 
 <!-- Featured Projects Typing -->
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=🚀+Featured+Projects)
+<!-- ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=🚀+Featured+Projects)
 
 <details>
   <summary style="cursor: pointer;">
@@ -162,7 +162,7 @@ const AnawarHossain = {
 
   ⚛️ Projects Link Comming soon ...
 
----
+--- -->
 </details>
 
 
@@ -267,17 +267,17 @@ const AnawarHossain = {
 
 
 <!-- Latest Blog Posts Typing -->
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=📝+Latest+Blog+Posts)
+<!-- ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3F9EF7&width=435&lines=📝+Latest+Blog+Posts) -->
 
-<details>
+<!-- <details>
   <summary style="cursor: pointer;">
     <h4 style="display: inline;"> 📝 <b>My Blog Post</b> ⤵ </h4>
     <hr/>
-  </summary>
+  </summary> -->
 
   
   <!-- BLOG-POST-LIST:START -->
-  <div align="center">
+  <!-- <div align="center">
 
   ## 📝 Latest Blog Posts
 
@@ -303,7 +303,7 @@ const AnawarHossain = {
   </div>
 
   ---
-</details>
+</details> -->
 
 
 <!-- Random Dev Quote Typing -->
