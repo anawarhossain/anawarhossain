@@ -464,18 +464,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 <table>
 <tr>
   <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/job-sift-server" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-sift-server&theme=tokyonight&hide_border=true" alt="job-sift-server"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/job-sift-server" target="_blank">job-sift-server</a></strong>
-      <br/>
-      <sub>No description available</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/job-sift-server?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/job-sift-server?style=social" alt="forks"/>
-    </td>
-  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/job-sift" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-sift&theme=tokyonight&hide_border=true" alt="job-sift"/>
       </a>
@@ -486,6 +474,18 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/job-sift?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/job-sift?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/job-sift-server" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-sift-server&theme=tokyonight&hide_border=true" alt="job-sift-server"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/job-sift-server" target="_blank">job-sift-server</a></strong>
+      <br/>
+      <sub>No description available</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/job-sift-server?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/job-sift-server?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/book-vibe" target="_blank">
@@ -871,7 +871,7 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 </tr>
 </table>
 
-<sub>📅 Last Updated: Tuesday, June 9, 2026 at 9:39 AM</sub>
+<sub>📅 Last Updated: Wednesday, June 10, 2026 at 9:53 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
