@@ -464,18 +464,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 <table>
 <tr>
   <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/tech-bazar" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=tech-bazar&theme=tokyonight&hide_border=true" alt="tech-bazar"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/tech-bazar" target="_blank">tech-bazar</a></strong>
-      <br/>
-      <sub>No description available</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/tech-bazar?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/tech-bazar?style=social" alt="forks"/>
-    </td>
-  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/tech-bazar-server" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=tech-bazar-server&theme=tokyonight&hide_border=true" alt="tech-bazar-server"/>
       </a>
@@ -486,6 +474,18 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/tech-bazar-server?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/tech-bazar-server?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/tech-bazar" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=tech-bazar&theme=tokyonight&hide_border=true" alt="tech-bazar"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/tech-bazar" target="_blank">tech-bazar</a></strong>
+      <br/>
+      <sub>No description available</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/tech-bazar?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/tech-bazar?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/job-sift" target="_blank">
@@ -898,7 +898,7 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 </tr>
 </table>
 
-<sub>📅 Last Updated: Tuesday, June 16, 2026 at 10:20 AM</sub>
+<sub>📅 Last Updated: Wednesday, June 17, 2026 at 10:16 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
