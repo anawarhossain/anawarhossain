@@ -464,18 +464,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 <table>
 <tr>
   <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/WeCare-Server" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=WeCare-Server&theme=tokyonight&hide_border=true" alt="WeCare-Server"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/WeCare-Server" target="_blank">WeCare-Server</a></strong>
-      <br/>
-      <sub>WeCare is a central platform connecting patients, doctors, a...</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/WeCare-Server?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/WeCare-Server?style=social" alt="forks"/>
-    </td>
-  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/WeCare" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=WeCare&theme=tokyonight&hide_border=true" alt="WeCare"/>
       </a>
@@ -486,6 +474,18 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/WeCare?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/WeCare?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/WeCare-Server" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=WeCare-Server&theme=tokyonight&hide_border=true" alt="WeCare-Server"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/WeCare-Server" target="_blank">WeCare-Server</a></strong>
+      <br/>
+      <sub>WeCare is a central platform connecting patients, doctors, a...</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/WeCare-Server?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/WeCare-Server?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/email-sending-server" target="_blank">
@@ -947,7 +947,7 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 </tr>
 </table>
 
-<sub>📅 Last Updated: Wednesday, July 1, 2026 at 10:02 AM</sub>
+<sub>📅 Last Updated: Thursday, July 2, 2026 at 9:42 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
