@@ -15,10 +15,13 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: write
+      deployments: write
     
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
@@ -31,7 +34,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist

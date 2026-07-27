@@ -5,7 +5,7 @@
 
   <!-- TYPING ANIMATION - পরিবর্তন করুন: নাম ও টাইটেল -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Front-end+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Front-end+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-anawarhossain-0e75b6?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://anawarhossain2.netlify.app)
@@ -45,10 +45,9 @@ Currently working with React, Next.js, Node.js, Express.js, TypeScript, Tailwind
 **➦ MERN Stack (Currently Mastering...)**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=61DAFB" alt="JWT" />
+  <img src="https://img.shields.io/badge/AI-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=express&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Typescript" />
 </p>
 
 ---
@@ -103,34 +102,24 @@ Currently working with React, Next.js, Node.js, Express.js, TypeScript, Tailwind
 
 ## 📊 GitHub Statistics
 
-<!-- এখানে কিছু পরিবর্তন করতে হবে না, শুধু username পরিবর্তন করুন -->
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anawarhossain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anawarhossain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&hide_title=true&border_radius=8"/>
   
-  <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anawarhossain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anawarhossain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css&border_radius=8"/>
 
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anawarhossain&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
   
-  <!-- Trophy Stats -->
   <img src="https://github-profile-trophy.vercel.app/?username=anawarhossain&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 
 </div>
 
-<!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anawarhossain&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anawarhossain&theme=tokyonight&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -142,7 +131,7 @@ Currently working with React, Next.js, Node.js, Express.js, TypeScript, Tailwind
 ```javascript
 const AnawarHossain = {
   currentlyWorking: "Building a Full Stack E-commerce Platform",
-  currentlyLearning: ["React", "Next.js", "Database"],
+  currentlyLearning: ["Agentic AI", "Stripe", "Typescript"],
   lookingToCollaborate: "Open Source Projects & Innovative Web Apps",
   goals2026: "Master Cloud Architecture & Contribute to 100+ Open Source PRs",
   funFact: "I can code for 12 hours straight with just Quran and coffee!",
@@ -244,7 +233,7 @@ const AnawarHossain = {
   </summary>
 
 <!-- EDUCATION_START -->
-## 💬 Educational Background
+  ## 🎓 Educational Background
 
 - 🇧🇩 **Bachelor of Science in Computer Science & Engineering (BSc)** — (2019 — 2026)
   - 🏫 National University
@@ -253,7 +242,7 @@ const AnawarHossain = {
   - 🏫 Major General Mahmudul Hasan College
 
 - 🇧🇩 **Secondary School Certificate (SSC)** — (2011 — 2016)
-  - 🏫 Anuhola Hight School
+  - 🏫 Anuhola High School
 
 <br/>
 
@@ -330,9 +319,6 @@ const AnawarHossain = {
   <a href="https://x.com/MDANAWAR22" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:anawarhossain0102@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://anawarhossain2.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
@@ -404,14 +390,14 @@ const AnawarHossain = {
   
   
   <!-- Quote of the Day Typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=💭+Quote+Of+The+Day" alt="Quote of the Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=💭+Quote+Of+The+Day" alt="Quote of the Day" />
   
   *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
   ---
   
   <!-- 🎵 Now Playing on Spotify Typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=🎵+Now+Playing+On+Spotify" alt="Now Playing on Spotify" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=🎵+Now+Playing+On+Spotify" alt="Now Playing on Spotify" />
 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317vyqnub7q32hy5k4jbibyceiiy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
