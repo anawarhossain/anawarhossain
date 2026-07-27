@@ -8,9 +8,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Front-end+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-anawarhossain.com-0e75b6?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://anawarhossain2.netlify.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-anawarhossain-0e75b6?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://anawarhossain2.netlify.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-anawarhossain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anawarhossain/)
-  [![Email](https://img.shields.io/badge/Email-anawarhossain@gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anawarhossain0102@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-anawarhossain0102@gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anawarhossain0102@gmail.com)
 
   <!-- VISITOR COUNTER -->
   <img src="https://komarev.com/ghpvc/?username=anawarhossain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -330,10 +330,10 @@ const AnawarHossain = {
   <a href="https://x.com/MDANAWAR22" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:anwarhossainhossain01@gmail.com">
+  <a href="mailto:anawarhossain0102@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://anawarhossain.com" target="_blank">
+  <a href="https://anawarhossain2.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.facebook.com/AnawarHossain55" target="_blank">
@@ -365,7 +365,7 @@ const AnawarHossain = {
   <a href="https://www.buymeacoffee.com/anawarhossain" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
   </a>
-  <a href="https://paypal.me/YOUR_USERNAME" target="_blank">
+  <a href="https://paypal.me/anawarhossain" target="_blank">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="35" />
   </a>
 
@@ -438,7 +438,7 @@ _Don't forget to ⭐ my repositories if you find them useful!_
     If you find my work valuable, a <b>⭐ on my repositories</b> would be much appreciated!
   </p>
   
-  <a href="mailto:anawarhossain0102@gmail.com.com">
+  <a href="mailto:anawarhossain0102@gmail.com">
     <img src="https://img.shields.io/badge/Get_In_Touch-0e75b6?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me"/>
   </a>
   <a href="https://linkedin.com/in/anawarhossain">
