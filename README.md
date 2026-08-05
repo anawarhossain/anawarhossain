@@ -450,6 +450,18 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 <table>
 <tr>
   <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/job-tracker" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-tracker&theme=tokyonight&hide_border=true" alt="job-tracker"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/job-tracker" target="_blank">job-tracker</a></strong>
+      <br/>
+      <sub>Job Tracker Website using JavaScript (DOM and Event)</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/job-tracker?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/job-tracker?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/suncart" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=suncart&theme=tokyonight&hide_border=true" alt="suncart"/>
       </a>
@@ -473,6 +485,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/amaze-pms-redesign?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/amaze-pms-redesign?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/tournest" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=tournest&theme=tokyonight&hide_border=true" alt="tournest"/>
@@ -485,8 +499,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/tournest?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/tournest?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/nexa-ai" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=nexa-ai&theme=tokyonight&hide_border=true" alt="nexa-ai"/>
@@ -511,6 +523,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/Next-Mart?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/Next-Mart?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/dragon-news" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=dragon-news&theme=tokyonight&hide_border=true" alt="dragon-news"/>
@@ -523,8 +537,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/dragon-news?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/dragon-news?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/eventmaster" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=eventmaster&theme=tokyonight&hide_border=true" alt="eventmaster"/>
@@ -549,6 +561,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/playzone-client?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/playzone-client?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/WeCare" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=WeCare&theme=tokyonight&hide_border=true" alt="WeCare"/>
@@ -561,8 +575,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/WeCare?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/WeCare?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/typescript-practice" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=typescript-practice&theme=tokyonight&hide_border=true" alt="typescript-practice"/>
@@ -587,6 +599,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/supabase-practice?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/supabase-practice?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/WeCare-Server" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=WeCare-Server&theme=tokyonight&hide_border=true" alt="WeCare-Server"/>
@@ -599,8 +613,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/WeCare-Server?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/WeCare-Server?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/email-sending-server" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=email-sending-server&theme=tokyonight&hide_border=true" alt="email-sending-server"/>
@@ -625,6 +637,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/email-sending-client?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/email-sending-client?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/tech-bazar-server" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=tech-bazar-server&theme=tokyonight&hide_border=true" alt="tech-bazar-server"/>
@@ -637,8 +651,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/tech-bazar-server?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/tech-bazar-server?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/tech-bazar" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=tech-bazar&theme=tokyonight&hide_border=true" alt="tech-bazar"/>
@@ -663,6 +675,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/job-sift?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/job-sift?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/job-sift-server" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-sift-server&theme=tokyonight&hide_border=true" alt="job-sift-server"/>
@@ -675,8 +689,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/job-sift-server?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/job-sift-server?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/book-vibe" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=book-vibe&theme=tokyonight&hide_border=true" alt="book-vibe"/>
@@ -701,6 +713,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/digitools?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/digitools?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/keenkeeper" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=keenkeeper&theme=tokyonight&hide_border=true" alt="keenkeeper"/>
@@ -713,8 +727,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/keenkeeper?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/keenkeeper?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/playzone-server" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=playzone-server&theme=tokyonight&hide_border=true" alt="playzone-server"/>
@@ -739,6 +751,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/wanderlust-server?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/wanderlust-server?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/wanderlust-client" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=wanderlust-client&theme=tokyonight&hide_border=true" alt="wanderlust-client"/>
@@ -751,8 +765,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/wanderlust-client?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/wanderlust-client?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/crud-server" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=crud-server&theme=tokyonight&hide_border=true" alt="crud-server"/>
@@ -777,6 +789,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/crud-client?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/crud-client?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/express-user-management" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=express-user-management&theme=tokyonight&hide_border=true" alt="express-user-management"/>
@@ -789,8 +803,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/express-user-management?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/express-user-management?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/nextjs-user-management" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=nextjs-user-management&theme=tokyonight&hide_border=true" alt="nextjs-user-management"/>
@@ -815,6 +827,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/playstore-project?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/playstore-project?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/server-action-practice" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=server-action-practice&theme=tokyonight&hide_border=true" alt="server-action-practice"/>
@@ -827,8 +841,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/server-action-practice?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/server-action-practice?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/authentication-practice-using-betterauth" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=authentication-practice-using-betterauth&theme=tokyonight&hide_border=true" alt="authentication-practice-using-betterauth"/>
@@ -853,6 +865,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/data-fetching-practice?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/data-fetching-practice?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/nextjs-routing-practice-using-app-router" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=nextjs-routing-practice-using-app-router&theme=tokyonight&hide_border=true" alt="nextjs-routing-practice-using-app-router"/>
@@ -865,8 +879,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/nextjs-routing-practice-using-app-router?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/nextjs-routing-practice-using-app-router?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/nextjs-practice-ecommerce" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=nextjs-practice-ecommerce&theme=tokyonight&hide_border=true" alt="nextjs-practice-ecommerce"/>
@@ -891,6 +903,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/bpl-players-draft?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/bpl-players-draft?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/english-janala" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=english-janala&theme=tokyonight&hide_border=true" alt="english-janala"/>
@@ -903,8 +917,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/english-janala?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/english-janala?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/github-issue-tracker" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=github-issue-tracker&theme=tokyonight&hide_border=true" alt="github-issue-tracker"/>
@@ -929,6 +941,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/json-post-load?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/json-post-load?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/bpl-dhaka-team" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=bpl-dhaka-team&theme=tokyonight&hide_border=true" alt="bpl-dhaka-team"/>
@@ -940,20 +954,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/bpl-dhaka-team?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/bpl-dhaka-team?style=social" alt="forks"/>
-    </td>
-</tr>
-<tr>
-  <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/job-tracker" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-tracker&theme=tokyonight&hide_border=true" alt="job-tracker"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/job-tracker" target="_blank">job-tracker</a></strong>
-      <br/>
-      <sub>Job Tracker Website using JavaScript (DOM and Event)</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/job-tracker?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/job-tracker?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/Tea-House" target="_blank">
@@ -1020,7 +1020,7 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 </tr>
 </table>
 
-<sub>📅 Last Updated: Tuesday, August 4, 2026 at 8:37 AM</sub>
+<sub>📅 Last Updated: Wednesday, August 5, 2026 at 8:35 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
