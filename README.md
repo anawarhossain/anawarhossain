@@ -47,7 +47,7 @@ Currently working with React, Next.js, Node.js, Express.js, TypeScript, Tailwind
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-339933?style=for-the-badge&logo=postgreSQL&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Typescript" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
 </p>
 
 ---
@@ -108,13 +108,13 @@ Currently working with React, Next.js, Node.js, Express.js, TypeScript, Tailwind
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anawarhossain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css&border_radius=8"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anawarhossain&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=anawarhossain&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=anawarhossain&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anawarhossain&theme=tokyonight&no-frame=true&row=2&column=4" alt="Trophies"/>
 
 </div>
 
