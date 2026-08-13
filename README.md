@@ -450,18 +450,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 <table>
 <tr>
   <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/OmniStore-Frontend" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=OmniStore-Frontend&theme=tokyonight&hide_border=true" alt="OmniStore-Frontend"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/OmniStore-Frontend" target="_blank">OmniStore-Frontend</a></strong>
-      <br/>
-      <sub>Practice PostgreSQL and Prisma</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/OmniStore-Frontend?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/OmniStore-Frontend?style=social" alt="forks"/>
-    </td>
-  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/OmniStore-Backend" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=OmniStore-Backend&theme=tokyonight&hide_border=true" alt="OmniStore-Backend"/>
       </a>
@@ -472,6 +460,18 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/OmniStore-Backend?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/OmniStore-Backend?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/OmniStore-Frontend" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=OmniStore-Frontend&theme=tokyonight&hide_border=true" alt="OmniStore-Frontend"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/OmniStore-Frontend" target="_blank">OmniStore-Frontend</a></strong>
+      <br/>
+      <sub>Practice PostgreSQL and Prisma</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/OmniStore-Frontend?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/OmniStore-Frontend?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/job-tracker" target="_blank">
@@ -1047,7 +1047,7 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 </tr>
 </table>
 
-<sub>📅 Last Updated: Thursday, August 13, 2026 at 8:03 AM</sub>
+<sub>📅 Last Updated: Thursday, August 13, 2026 at 10:34 PM</sub>
 
 </div>
 <!-- PROJECTS_END -->
