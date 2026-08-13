@@ -45,8 +45,8 @@ Currently working with React, Next.js, Node.js, Express.js, TypeScript, Tailwind
 **➦ MERN Stack (Currently Mastering...)**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AI-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=express&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/PostgreSQL-339933?style=for-the-badge&logo=postgreSQL&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Typescript" />
 </p>
 
