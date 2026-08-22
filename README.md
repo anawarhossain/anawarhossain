@@ -450,6 +450,18 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 <table>
 <tr>
   <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/suncart" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=suncart&theme=tokyonight&hide_border=true" alt="suncart"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/suncart" target="_blank">suncart</a></strong>
+      <br/>
+      <sub>SunCart - A modern summer eCommerce platform where users can...</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/suncart?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/suncart?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/OmniStore-Backend" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=OmniStore-Backend&theme=tokyonight&hide_border=true" alt="OmniStore-Backend"/>
       </a>
@@ -473,6 +485,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/OmniStore-Frontend?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/OmniStore-Frontend?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/job-tracker" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-tracker&theme=tokyonight&hide_border=true" alt="job-tracker"/>
@@ -484,20 +498,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/job-tracker?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/job-tracker?style=social" alt="forks"/>
-    </td>
-</tr>
-<tr>
-  <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/suncart" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=suncart&theme=tokyonight&hide_border=true" alt="suncart"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/suncart" target="_blank">suncart</a></strong>
-      <br/>
-      <sub>SunCart - A modern summer eCommerce platform where users can...</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/suncart?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/suncart?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/amaze-pms-redesign" target="_blank">
@@ -1047,7 +1047,7 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 </tr>
 </table>
 
-<sub>📅 Last Updated: Friday, August 21, 2026 at 7:20 AM</sub>
+<sub>📅 Last Updated: Saturday, August 22, 2026 at 7:15 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
