@@ -450,6 +450,18 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 <table>
 <tr>
   <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/tournest" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=tournest&theme=tokyonight&hide_border=true" alt="tournest"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/tournest" target="_blank">tournest</a></strong>
+      <br/>
+      <sub>No description available</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/tournest?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/tournest?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/job-sift" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-sift&theme=tokyonight&hide_border=true" alt="job-sift"/>
       </a>
@@ -473,6 +485,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/suncart?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/suncart?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/OmniStore-Backend" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=OmniStore-Backend&theme=tokyonight&hide_border=true" alt="OmniStore-Backend"/>
@@ -485,8 +499,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/OmniStore-Backend?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/OmniStore-Backend?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/OmniStore-Frontend" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=OmniStore-Frontend&theme=tokyonight&hide_border=true" alt="OmniStore-Frontend"/>
@@ -511,6 +523,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/job-tracker?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/job-tracker?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/amaze-pms-redesign" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=amaze-pms-redesign&theme=tokyonight&hide_border=true" alt="amaze-pms-redesign"/>
@@ -522,20 +536,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/amaze-pms-redesign?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/amaze-pms-redesign?style=social" alt="forks"/>
-    </td>
-</tr>
-<tr>
-  <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/tournest" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=tournest&theme=tokyonight&hide_border=true" alt="tournest"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/tournest" target="_blank">tournest</a></strong>
-      <br/>
-      <sub>No description available</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/tournest?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/tournest?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/nexa-ai" target="_blank">
@@ -1047,7 +1047,7 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 </tr>
 </table>
 
-<sub>📅 Last Updated: Thursday, August 27, 2026 at 2:01 PM</sub>
+<sub>📅 Last Updated: Friday, August 28, 2026 at 4:04 PM</sub>
 
 </div>
 <!-- PROJECTS_END -->
