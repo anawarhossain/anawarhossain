@@ -450,6 +450,18 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 <table>
 <tr>
   <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/OmniStore-Frontend" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=OmniStore-Frontend&theme=tokyonight&hide_border=true" alt="OmniStore-Frontend"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/OmniStore-Frontend" target="_blank">OmniStore-Frontend</a></strong>
+      <br/>
+      <sub>Practice PostgreSQL and Prisma</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/OmniStore-Frontend?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/OmniStore-Frontend?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/TechWave" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=TechWave&theme=tokyonight&hide_border=true" alt="TechWave"/>
       </a>
@@ -473,6 +485,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/github-issue-tracker?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/github-issue-tracker?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/amaze-pms-redesign" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=amaze-pms-redesign&theme=tokyonight&hide_border=true" alt="amaze-pms-redesign"/>
@@ -485,8 +499,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/amaze-pms-redesign?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/amaze-pms-redesign?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/dragon-news" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=dragon-news&theme=tokyonight&hide_border=true" alt="dragon-news"/>
@@ -511,6 +523,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/tournest?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/tournest?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/job-sift" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-sift&theme=tokyonight&hide_border=true" alt="job-sift"/>
@@ -523,8 +537,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/job-sift?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/job-sift?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/suncart" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=suncart&theme=tokyonight&hide_border=true" alt="suncart"/>
@@ -548,18 +560,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/OmniStore-Backend?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/OmniStore-Backend?style=social" alt="forks"/>
-    </td>
-  <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/OmniStore-Frontend" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=OmniStore-Frontend&theme=tokyonight&hide_border=true" alt="OmniStore-Frontend"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/OmniStore-Frontend" target="_blank">OmniStore-Frontend</a></strong>
-      <br/>
-      <sub>Practice PostgreSQL and Prisma</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/OmniStore-Frontend?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/OmniStore-Frontend?style=social" alt="forks"/>
     </td>
 </tr>
 <tr>
@@ -1047,7 +1047,7 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 </tr>
 </table>
 
-<sub>📅 Last Updated: Tuesday, September 22, 2026 at 9:46 AM</sub>
+<sub>📅 Last Updated: Wednesday, September 23, 2026 at 9:44 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
