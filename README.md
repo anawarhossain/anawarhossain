@@ -450,6 +450,18 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 <table>
 <tr>
   <td width="33%" align="center">
+      <a href="https://github.com/anawarhossain/job-sift" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-sift&theme=tokyonight&hide_border=true" alt="job-sift"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/anawarhossain/job-sift" target="_blank">job-sift</a></strong>
+      <br/>
+      <sub>No description available</sub>
+      <br/>
+      <img src="https://img.shields.io/github/stars/anawarhossain/job-sift?style=social" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/anawarhossain/job-sift?style=social" alt="forks"/>
+    </td>
+  <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/crud-client" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=crud-client&theme=tokyonight&hide_border=true" alt="crud-client"/>
       </a>
@@ -473,6 +485,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/OmniStore-Frontend?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/OmniStore-Frontend?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/TechWave" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=TechWave&theme=tokyonight&hide_border=true" alt="TechWave"/>
@@ -485,8 +499,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/TechWave?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/TechWave?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/github-issue-tracker" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=github-issue-tracker&theme=tokyonight&hide_border=true" alt="github-issue-tracker"/>
@@ -511,6 +523,8 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/amaze-pms-redesign?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/amaze-pms-redesign?style=social" alt="forks"/>
     </td>
+</tr>
+<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/dragon-news" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=dragon-news&theme=tokyonight&hide_border=true" alt="dragon-news"/>
@@ -523,8 +537,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <img src="https://img.shields.io/github/stars/anawarhossain/dragon-news?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/dragon-news?style=social" alt="forks"/>
     </td>
-</tr>
-<tr>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/tournest" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=tournest&theme=tokyonight&hide_border=true" alt="tournest"/>
@@ -536,18 +548,6 @@ _Don't forget to ⭐ my repositories if you find them useful!_
       <br/>
       <img src="https://img.shields.io/github/stars/anawarhossain/tournest?style=social" alt="stars"/>
       <img src="https://img.shields.io/github/forks/anawarhossain/tournest?style=social" alt="forks"/>
-    </td>
-  <td width="33%" align="center">
-      <a href="https://github.com/anawarhossain/job-sift" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anawarhossain&repo=job-sift&theme=tokyonight&hide_border=true" alt="job-sift"/>
-      </a>
-      <br/>
-      <strong><a href="https://github.com/anawarhossain/job-sift" target="_blank">job-sift</a></strong>
-      <br/>
-      <sub>No description available</sub>
-      <br/>
-      <img src="https://img.shields.io/github/stars/anawarhossain/job-sift?style=social" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/anawarhossain/job-sift?style=social" alt="forks"/>
     </td>
   <td width="33%" align="center">
       <a href="https://github.com/anawarhossain/suncart" target="_blank">
@@ -1047,7 +1047,7 @@ _Don't forget to ⭐ my repositories if you find them useful!_
 </tr>
 </table>
 
-<sub>📅 Last Updated: Friday, October 16, 2026 at 9:32 AM</sub>
+<sub>📅 Last Updated: Saturday, October 17, 2026 at 9:23 AM</sub>
 
 </div>
 <!-- PROJECTS_END -->
